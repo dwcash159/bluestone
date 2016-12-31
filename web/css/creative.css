@@ -459,3 +459,18 @@ body {
 .panel-black {
     color: #020202 !important;
 }
+
+.more-info:hover {
+    text-decoration: none !important;
+    color: #f7f7f7 !important;
+}
+
+.more-info:active {
+    text-decoration: none !important;
+    color: #f7f7f7 !important;
+}
+
+.more-info:visited {
+    text-decoration: none !important;
+    color: #f7f7f7 !important;
+}

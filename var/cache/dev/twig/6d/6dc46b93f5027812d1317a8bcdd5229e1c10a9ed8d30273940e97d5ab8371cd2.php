@@ -25,47 +25,47 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
 
     protected function doDisplay(array $context, array $blocks = array())
     {
-        $__internal_e32f48dbd6d01fac812aef03a9c71dd9aced8fbfcb318b021a850eda0a7cdb60 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_e32f48dbd6d01fac812aef03a9c71dd9aced8fbfcb318b021a850eda0a7cdb60->enter($__internal_e32f48dbd6d01fac812aef03a9c71dd9aced8fbfcb318b021a850eda0a7cdb60_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "default/index.html.twig"));
+        $__internal_f827796a6a506e14b575d0fa081f0cd3c2abf25b57ffe46defbe5807efdaf03b = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_f827796a6a506e14b575d0fa081f0cd3c2abf25b57ffe46defbe5807efdaf03b->enter($__internal_f827796a6a506e14b575d0fa081f0cd3c2abf25b57ffe46defbe5807efdaf03b_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "default/index.html.twig"));
 
-        $__internal_a04b5ef65edfed1d37d735e72236e784ce1c638b3c5f535f261330a76e1a29c1 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_a04b5ef65edfed1d37d735e72236e784ce1c638b3c5f535f261330a76e1a29c1->enter($__internal_a04b5ef65edfed1d37d735e72236e784ce1c638b3c5f535f261330a76e1a29c1_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "default/index.html.twig"));
+        $__internal_9547b3a64c631da862e1ed0a11ea475e77e118241d023ace3a3f2d27897c4417 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_9547b3a64c631da862e1ed0a11ea475e77e118241d023ace3a3f2d27897c4417->enter($__internal_9547b3a64c631da862e1ed0a11ea475e77e118241d023ace3a3f2d27897c4417_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "default/index.html.twig"));
 
         $this->parent->display($context, array_merge($this->blocks, $blocks));
         
-        $__internal_e32f48dbd6d01fac812aef03a9c71dd9aced8fbfcb318b021a850eda0a7cdb60->leave($__internal_e32f48dbd6d01fac812aef03a9c71dd9aced8fbfcb318b021a850eda0a7cdb60_prof);
+        $__internal_f827796a6a506e14b575d0fa081f0cd3c2abf25b57ffe46defbe5807efdaf03b->leave($__internal_f827796a6a506e14b575d0fa081f0cd3c2abf25b57ffe46defbe5807efdaf03b_prof);
 
         
-        $__internal_a04b5ef65edfed1d37d735e72236e784ce1c638b3c5f535f261330a76e1a29c1->leave($__internal_a04b5ef65edfed1d37d735e72236e784ce1c638b3c5f535f261330a76e1a29c1_prof);
+        $__internal_9547b3a64c631da862e1ed0a11ea475e77e118241d023ace3a3f2d27897c4417->leave($__internal_9547b3a64c631da862e1ed0a11ea475e77e118241d023ace3a3f2d27897c4417_prof);
 
     }
 
     // line 3
     public function block_title($context, array $blocks = array())
     {
-        $__internal_fec8d40d72f24d540529bd5e11118e465c9c6bfb7555ed890831180597bbd0f4 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_fec8d40d72f24d540529bd5e11118e465c9c6bfb7555ed890831180597bbd0f4->enter($__internal_fec8d40d72f24d540529bd5e11118e465c9c6bfb7555ed890831180597bbd0f4_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "title"));
+        $__internal_0fb625ee0f14af72e3f48030f823186ec8a8c887b1b2bbcbbbc2bcb058b9917a = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_0fb625ee0f14af72e3f48030f823186ec8a8c887b1b2bbcbbbc2bcb058b9917a->enter($__internal_0fb625ee0f14af72e3f48030f823186ec8a8c887b1b2bbcbbbc2bcb058b9917a_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "title"));
 
-        $__internal_25d82d1c72fed23a2d82e411b20248c0e37daa2b40222f65ce6b4a1e49117fbf = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_25d82d1c72fed23a2d82e411b20248c0e37daa2b40222f65ce6b4a1e49117fbf->enter($__internal_25d82d1c72fed23a2d82e411b20248c0e37daa2b40222f65ce6b4a1e49117fbf_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "title"));
+        $__internal_7f4e67ef6cac648f8a4a68e34167d53d0587be208102bb079b26d7d37da2495c = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_7f4e67ef6cac648f8a4a68e34167d53d0587be208102bb079b26d7d37da2495c->enter($__internal_7f4e67ef6cac648f8a4a68e34167d53d0587be208102bb079b26d7d37da2495c_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "title"));
 
         echo "NTSS";
         
-        $__internal_25d82d1c72fed23a2d82e411b20248c0e37daa2b40222f65ce6b4a1e49117fbf->leave($__internal_25d82d1c72fed23a2d82e411b20248c0e37daa2b40222f65ce6b4a1e49117fbf_prof);
+        $__internal_7f4e67ef6cac648f8a4a68e34167d53d0587be208102bb079b26d7d37da2495c->leave($__internal_7f4e67ef6cac648f8a4a68e34167d53d0587be208102bb079b26d7d37da2495c_prof);
 
         
-        $__internal_fec8d40d72f24d540529bd5e11118e465c9c6bfb7555ed890831180597bbd0f4->leave($__internal_fec8d40d72f24d540529bd5e11118e465c9c6bfb7555ed890831180597bbd0f4_prof);
+        $__internal_0fb625ee0f14af72e3f48030f823186ec8a8c887b1b2bbcbbbc2bcb058b9917a->leave($__internal_0fb625ee0f14af72e3f48030f823186ec8a8c887b1b2bbcbbbc2bcb058b9917a_prof);
 
     }
 
     // line 5
     public function block_stylesheets($context, array $blocks = array())
     {
-        $__internal_ccf59731e8f066fc857c50936eec9cca62f66c9824e138a1e5d151fafd0aaf81 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_ccf59731e8f066fc857c50936eec9cca62f66c9824e138a1e5d151fafd0aaf81->enter($__internal_ccf59731e8f066fc857c50936eec9cca62f66c9824e138a1e5d151fafd0aaf81_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "stylesheets"));
+        $__internal_cc3255fdb05aa118e97c84001a2f5dc8787b853d238e6a03a3955860e8ca6207 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_cc3255fdb05aa118e97c84001a2f5dc8787b853d238e6a03a3955860e8ca6207->enter($__internal_cc3255fdb05aa118e97c84001a2f5dc8787b853d238e6a03a3955860e8ca6207_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "stylesheets"));
 
-        $__internal_8c8d7068bce979405d34384e76d4c79b97591c73c5f912ad5a9aa99f3580053a = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_8c8d7068bce979405d34384e76d4c79b97591c73c5f912ad5a9aa99f3580053a->enter($__internal_8c8d7068bce979405d34384e76d4c79b97591c73c5f912ad5a9aa99f3580053a_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "stylesheets"));
+        $__internal_25cf5ac9fa0ce72099a67436f16cdff1238e2015c7fdcd693de8dd6c2dabd374 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_25cf5ac9fa0ce72099a67436f16cdff1238e2015c7fdcd693de8dd6c2dabd374->enter($__internal_25cf5ac9fa0ce72099a67436f16cdff1238e2015c7fdcd693de8dd6c2dabd374_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "stylesheets"));
 
         // line 6
         echo "    ";
@@ -91,21 +91,21 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
         echo "\" />
 ";
         
-        $__internal_8c8d7068bce979405d34384e76d4c79b97591c73c5f912ad5a9aa99f3580053a->leave($__internal_8c8d7068bce979405d34384e76d4c79b97591c73c5f912ad5a9aa99f3580053a_prof);
+        $__internal_25cf5ac9fa0ce72099a67436f16cdff1238e2015c7fdcd693de8dd6c2dabd374->leave($__internal_25cf5ac9fa0ce72099a67436f16cdff1238e2015c7fdcd693de8dd6c2dabd374_prof);
 
         
-        $__internal_ccf59731e8f066fc857c50936eec9cca62f66c9824e138a1e5d151fafd0aaf81->leave($__internal_ccf59731e8f066fc857c50936eec9cca62f66c9824e138a1e5d151fafd0aaf81_prof);
+        $__internal_cc3255fdb05aa118e97c84001a2f5dc8787b853d238e6a03a3955860e8ca6207->leave($__internal_cc3255fdb05aa118e97c84001a2f5dc8787b853d238e6a03a3955860e8ca6207_prof);
 
     }
 
     // line 25
     public function block_pre_javascripts($context, array $blocks = array())
     {
-        $__internal_fa33567606b320abbbe9bfad158ccc38e4a4b2230c6862e656a88484318fbdad = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_fa33567606b320abbbe9bfad158ccc38e4a4b2230c6862e656a88484318fbdad->enter($__internal_fa33567606b320abbbe9bfad158ccc38e4a4b2230c6862e656a88484318fbdad_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "pre_javascripts"));
+        $__internal_76b89a95c4a28ef9b10697e22d19cf6f42d869f1d646b4cda8f9ad65ce69e590 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_76b89a95c4a28ef9b10697e22d19cf6f42d869f1d646b4cda8f9ad65ce69e590->enter($__internal_76b89a95c4a28ef9b10697e22d19cf6f42d869f1d646b4cda8f9ad65ce69e590_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "pre_javascripts"));
 
-        $__internal_807b74a76f8cd209bb55d7c60ade2b857d9e0f6804a51ec7f66586c1e237cf57 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_807b74a76f8cd209bb55d7c60ade2b857d9e0f6804a51ec7f66586c1e237cf57->enter($__internal_807b74a76f8cd209bb55d7c60ade2b857d9e0f6804a51ec7f66586c1e237cf57_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "pre_javascripts"));
+        $__internal_7e6b434bb81c8de7f4f9d08717282d3f76cea768478da664b1d4427295faf21e = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_7e6b434bb81c8de7f4f9d08717282d3f76cea768478da664b1d4427295faf21e->enter($__internal_7e6b434bb81c8de7f4f9d08717282d3f76cea768478da664b1d4427295faf21e_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "pre_javascripts"));
 
         // line 26
         echo "    ";
@@ -119,21 +119,21 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
     <![endif]-->
 ";
         
-        $__internal_807b74a76f8cd209bb55d7c60ade2b857d9e0f6804a51ec7f66586c1e237cf57->leave($__internal_807b74a76f8cd209bb55d7c60ade2b857d9e0f6804a51ec7f66586c1e237cf57_prof);
+        $__internal_7e6b434bb81c8de7f4f9d08717282d3f76cea768478da664b1d4427295faf21e->leave($__internal_7e6b434bb81c8de7f4f9d08717282d3f76cea768478da664b1d4427295faf21e_prof);
 
         
-        $__internal_fa33567606b320abbbe9bfad158ccc38e4a4b2230c6862e656a88484318fbdad->leave($__internal_fa33567606b320abbbe9bfad158ccc38e4a4b2230c6862e656a88484318fbdad_prof);
+        $__internal_76b89a95c4a28ef9b10697e22d19cf6f42d869f1d646b4cda8f9ad65ce69e590->leave($__internal_76b89a95c4a28ef9b10697e22d19cf6f42d869f1d646b4cda8f9ad65ce69e590_prof);
 
     }
 
     // line 37
     public function block_body($context, array $blocks = array())
     {
-        $__internal_30b4030ec402e6b2cc85dd4159f48f08324398fdccd3509949a45f4252072208 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_30b4030ec402e6b2cc85dd4159f48f08324398fdccd3509949a45f4252072208->enter($__internal_30b4030ec402e6b2cc85dd4159f48f08324398fdccd3509949a45f4252072208_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
+        $__internal_ca3bde360fc41e47a082d77364a9f9fc3855ff093ee9cc5636d5b9e77263d888 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_ca3bde360fc41e47a082d77364a9f9fc3855ff093ee9cc5636d5b9e77263d888->enter($__internal_ca3bde360fc41e47a082d77364a9f9fc3855ff093ee9cc5636d5b9e77263d888_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
 
-        $__internal_73c8fbe4e2b121c573af8a8d80b2a39b0ef4d1f750aae3a42ee2e87596a194cb = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_73c8fbe4e2b121c573af8a8d80b2a39b0ef4d1f750aae3a42ee2e87596a194cb->enter($__internal_73c8fbe4e2b121c573af8a8d80b2a39b0ef4d1f750aae3a42ee2e87596a194cb_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
+        $__internal_28530d9b80574da6f8e340c34d7042e97e9da56edcc6234cc762a7fee67924cf = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_28530d9b80574da6f8e340c34d7042e97e9da56edcc6234cc762a7fee67924cf->enter($__internal_28530d9b80574da6f8e340c34d7042e97e9da56edcc6234cc762a7fee67924cf_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
 
         // line 38
         echo "    <nav id=\"mainNav\" class=\"navbar navbar-default navbar-fixed-top\">
@@ -355,12 +355,12 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
                     <div class=\"panel panel-primary\">
                         <div class=\"panel-heading\" role=\"tab\" id=\"headingOne\">
                             <h4 class=\"panel-title\">
-                                <a role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseOne\" aria-expanded=\"true\" aria-controls=\"collapseOne\">
-                                    More about Sleep Apnea
+                                <a class=\"collapsed more-info\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseOne\" aria-expanded=\"false\" aria-controls=\"collapseOne\">
+                                    Sleep Apnea
                                 </a>
                             </h4>
                         </div>
-                        <div id=\"collapseOne\" class=\"panel-collapse collapse in\" role=\"tabpanel\" aria-labelledby=\"headingOne\">
+                        <div id=\"collapseOne\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingOne\">
                             <div class=\"panel-body panel-black\">
                                 Sleep apnea (AP-ne-ah) is a common disorder in which you have one or more pauses in breathing or shallow breaths while you sleep.
                                 <br><br>
@@ -369,7 +369,11 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
                                 Sleep apnea usually is a chronic (ongoing) condition that disrupts your sleep. When your breathing pauses or becomes shallow, you’ll often move out of deep sleep and into light sleep.
                                 <br><br>
                                 As a result, the quality of your sleep is poor, which makes you tired during the day. Sleep apnea is a leading cause of excessive daytime sleepiness.
-
+                                <br><br>
+                                <img style=\"margin:auto;\" src=\"";
+        // line 268
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("img/portfolio/fullsize/sleepApnea.jpg"), "html", null, true);
+        echo "\" class=\"img-responsive\" alt=\"\">
                                 <br><br>
                                 <a style=\"font-size: 10px;\" href=\"https://www.nhlbi.nih.gov/health/health-topics/topics/sleepapnea\">Source - National Heart, Lung, and Blood Institute</a>
 
@@ -379,28 +383,118 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
                     <div class=\"panel panel-primary\">
                         <div class=\"panel-heading\" role=\"tab\" id=\"headingTwo\">
                             <h4 class=\"panel-title\">
-                                <a class=\"collapsed\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">
-                                    Collapsible Group Item #2
+                                <a class=\"collapsed more-info\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">
+                                    Oral Appliances
                                 </a>
                             </h4>
                         </div>
                         <div id=\"collapseTwo\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingTwo\">
-                            <div class=\"panel-body\">
-                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                            <div class=\"panel-body panel-black\">
+                                <h2>Thornton Adjustable Positioner (TAP)</h2>
+                                <div>
+                                    <img src=\"";
+        // line 287
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("img/portfolio/fullsize/tap.png"), "html", null, true);
+        echo "\" class=\"img-responsive\" alt=\"\" style=\"float:right; margin:auto; max-width:250px;\"/>
+                                    The Thornton Adjustable Positioner (TAP) is a custom-made two piece adjustable appliance that is worn while sleeping. The trays of the appliance snap over the upper and lower teeth and hook together. The design is based on the same principle as cardiopulmonary resuscitation, CPR. The airway must be opened to allow air to pass through the throat. The TAP holds the lower jaw in a forward position so that it does not shift nor fall open during the night. This prevents the airway from collapsing. The more you pull your jaw forward, the more your airway will open.
+                                    <br><br>
+                                    The TAP is the only mandibular advancement device that can be adjusted easily by the patient or practitioner while in the mouth. This feature allows the patient to always be in control of their treatment. The unique design also allows the patient to fine-tune their treatment position at home to achieve maximum results.
+                                    <br><br>
+                                    Most patients experience relief the very first night they wear their TAP. Although it may take up to a week to get used to wearing a TAP appliance, this is a small hurdle for patients. Nine in ten patients wear the device all night, every night  making the TAP a highly effective solution for both snoring and sleep apnea.
+                                    <br><br>
+                                    <strong>Features</strong>
+
+                                    <ul class=\"text-left\">
+                                        <li>Patient-friendly</li>
+                                        <li>Superior results</li>
+                                        <li>Easy to fit</li>
+                                        <li>Infinitely adjustable</li>
+                                        <li>Precise control of advancement</li>
+                                        <li>Interchangeable hooks</li>
+                                        <li>Freedom for lateral movement</li>
+                                        <li>More room for tongue</li>
+                                        <li>Allows lips to close</li>
+                                    </ul>
+                                    <br><br>
+                                    <strong>The TAP® can help prevent conditions linked to sleep apnea:</strong>
+                                    <ul class=\"text-left\">
+                                        <li>Chronic daytime sleepiness</li>
+                                        <li>Heart attack</li>
+                                        <li>Stroke</li>
+                                        <li>Heartburn, reflux</li>
+
+                                        <li>Morning headaches</li>
+                                        <li>Depression</li>
+                                    </ul>
+                                    <a style=\"font-size: 10px;\" href=\"https://www.sleepassociation.org/thornton-adjustable-positioner-tap/\">Source - American Sleep Association</a>
+
+                                </div>
+                                <hr class=\"dark\">
+                                <h2>Somnomed appliance</h2>
+                                <div>
+                                    <img src=\"";
+        // line 324
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("img/portfolio/fullsize/somnomedAcrylic-seperate-pieces-new-logo.jpg"), "html", null, true);
+        echo "\" class=\"img-responsive\" alt=\"\" style=\"float:right; margin:auto; max-width:250px;\"/>
+
+                                    <h3>Sleep Apnea Oral Appliance: SomnoDent</h3>
+
+                                    A SomnoDent sleep apnea oral appliance is a premium, custom-fitted dental device
+                                    developed for the treatment of snoring and obstructive sleep apnea. It is an
+                                    effective, comfortable, and durable alternative to CPAP therapy or corrective
+                                    surgery. By simply wearing a SomnoDent while sleeping, your lower jaw (mandible)
+                                    will be moved forward into a comfortable position, allowing relaxation of the
+                                    tissues at the back of your throat and ensuring the base of your tongue does not
+                                    collapse and block your airway, giving you a safe and soundless sleep. Most patients
+                                    and practitioners prefer oral appliance therapy for its comfort, convenience and
+                                    effectiveness.
+
+                                    <br><br>
+
+                                    <h3>Is a SomnoDent Sleep Apnea Oral Appliance Right for Me?</h3>
+                                    A growing number of men and women have discovered SomnoDent to be the perfect
+                                    solution for ending snoring, treating sleep apnea and/or improving sleep quality.
+                                    It is an ideal alternative treatment for patients who have been diagnosed with mild
+                                    to moderate obstructive sleep apnea or for those who have severe OSA, yet are unable
+                                    or unwilling to tolerate CPAP therapy and/or surgery.
+
+                                    <br><br>
+
+                                    <h3>SomnoDent Difference</h3>
+                                    <ul class=\"text-left\">
+                                        <li><strong>Effective:</strong> 91% of patients reported improvement in sleep quality with SomnoDent</li>
+                                        <li><strong>Highest Quality:</strong> FDA 510K cleared , Class II Medical Devices, and manufactured at an ISO 13485 certified facility. Customized using the highest quality acrylic which does not discolor or attract odors.</li>
+                                        <li><strong>Custom-fit:</strong> SomnoDent sleep apnea oral appliances are manufactured using dental impressions of your teeth, ensuring and effortless, custom-fit unique to your mouth</li>
+                                        <li><strong>Non-Restrictive in Movement:</strong> While wearing a SomnoDent, you will be able to fully open and close your mouth, yawn, drink, take oral medication and even speak clearly, making it ideal for the patient who may be claustrophobic.</li>
+                                        <li><strong>Easily Adjustable:</strong> SomnoDent is unlimited in protrusive advancement, meaning that you can advance your lower jaw as forward as possible when wearing the device.</li>
+                                        <li><strong>Highly Adaptable:</strong> If you have missing teeth, crowns, bridge work or wear a full upper denture, a SomnoDent can be adapted to fit your mouth structure.</li>
+
+                                        <li><strong>Patient Compliance:</strong> 88% of patients reported regular use of their SomnoDent device¹</li>
+                                        <li><strong>Enduring Durability:</strong> A combination of premium materials and, for some models, inner cast framework, ensures that the SomnoDent oral device is one of the strongest appliances currently available, making it an ideal treatment option for all patients, especially teeth grinders (bruxers). 1 to 3 year warranty against manufacturing defects.</li>
+                                        <li><strong>Clinically Proven:</strong> 15+ independent studies demonstrate the device’s significant clinical benefits</li>
+                                        <li><strong>Combination Use:</strong> SomnoDent can conveniently be used as a companion to your CPAP for combination therapy, allowing simpler mask fitting, reduced CPAP pressure and a compact alternative for travelling.</li>
+                                    </ul>
+                                    <a style=\"font-size: 10px;\" href=\"https://somnomed.com/us/patients/somnodent-product-information-for-patients//\">Source - Somnomed</a>
+                                </div>
+
                             </div>
                         </div>
                     </div>
                     <div class=\"panel panel-primary\">
                         <div class=\"panel-heading\" role=\"tab\" id=\"headingThree\">
                             <h4 class=\"panel-title\">
-                                <a class=\"collapsed\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">
+                                <a class=\"collapsed more-info\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">
                                     Forms
                                 </a>
                             </h4>
                         </div>
                         <div id=\"collapseThree\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingThree\">
-                            <div class=\"panel-body\">
-                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                            <div class=\"panel-body panel-black\">
+                                <ul class=\"text-left\">
+                                    <li>New Patient</li>
+                                    <li>Insurance Information</li>
+                                    <li>Privacy Notice</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -444,112 +538,112 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
 
 
     ";
-        // line 342
+        // line 427
         echo "    ";
-        // line 343
+        // line 428
         echo "        ";
-        // line 344
+        // line 429
         echo "            ";
-        // line 345
+        // line 430
         echo "                ";
-        // line 346
+        // line 431
         echo "                    ";
-        // line 347
+        // line 432
         echo "                    ";
-        // line 348
+        // line 433
         echo "                ";
-        // line 349
+        // line 434
         echo "                ";
-        // line 350
+        // line 435
         echo "                    ";
-        // line 351
+        // line 436
         echo "                    ";
-        // line 352
+        // line 437
         echo "                    ";
-        // line 353
+        // line 438
         echo "                    ";
-        // line 354
+        // line 439
         echo "                    ";
-        // line 355
+        // line 440
         echo "                    ";
-        // line 356
+        // line 441
         echo "                    ";
-        // line 357
+        // line 442
         echo "                ";
-        // line 358
+        // line 443
         echo "                ";
-        // line 359
+        // line 444
         echo "                    ";
-        // line 360
+        // line 445
         echo "                ";
-        // line 361
+        // line 446
         echo "            ";
-        // line 362
+        // line 447
         echo "        ";
-        // line 363
+        // line 448
         echo "    ";
-        // line 364
+        // line 449
         echo "
     ";
-        // line 366
+        // line 451
         echo "    ";
-        // line 367
+        // line 452
         echo "        ";
-        // line 368
+        // line 453
         echo "            ";
-        // line 369
+        // line 454
         echo "                ";
-        // line 370
+        // line 455
         echo "                    ";
-        // line 371
+        // line 456
         echo "                    ";
-        // line 372
+        // line 457
         echo "                ";
-        // line 373
+        // line 458
         echo "                ";
-        // line 374
+        // line 459
         echo "                    ";
-        // line 375
+        // line 460
         echo "                    ";
-        // line 376
+        // line 461
         echo "                    ";
-        // line 377
+        // line 462
         echo "
                 ";
-        // line 379
+        // line 464
         echo "                ";
-        // line 380
+        // line 465
         echo "                    ";
-        // line 381
+        // line 466
         echo "                ";
-        // line 382
+        // line 467
         echo "            ";
-        // line 383
+        // line 468
         echo "        ";
-        // line 384
+        // line 469
         echo "    ";
-        // line 385
+        // line 470
         echo "
 
 ";
         
-        $__internal_73c8fbe4e2b121c573af8a8d80b2a39b0ef4d1f750aae3a42ee2e87596a194cb->leave($__internal_73c8fbe4e2b121c573af8a8d80b2a39b0ef4d1f750aae3a42ee2e87596a194cb_prof);
+        $__internal_28530d9b80574da6f8e340c34d7042e97e9da56edcc6234cc762a7fee67924cf->leave($__internal_28530d9b80574da6f8e340c34d7042e97e9da56edcc6234cc762a7fee67924cf_prof);
 
         
-        $__internal_30b4030ec402e6b2cc85dd4159f48f08324398fdccd3509949a45f4252072208->leave($__internal_30b4030ec402e6b2cc85dd4159f48f08324398fdccd3509949a45f4252072208_prof);
+        $__internal_ca3bde360fc41e47a082d77364a9f9fc3855ff093ee9cc5636d5b9e77263d888->leave($__internal_ca3bde360fc41e47a082d77364a9f9fc3855ff093ee9cc5636d5b9e77263d888_prof);
 
     }
 
-    // line 392
+    // line 477
     public function block_post_javascripts($context, array $blocks = array())
     {
-        $__internal_dc7a9279c2ba2cf7e14740609548ac583f17403848d3b622e14f2fbf36400983 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_dc7a9279c2ba2cf7e14740609548ac583f17403848d3b622e14f2fbf36400983->enter($__internal_dc7a9279c2ba2cf7e14740609548ac583f17403848d3b622e14f2fbf36400983_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "post_javascripts"));
+        $__internal_a7d7ec19c66bdfc0835f99d8e6c8367688da0978fc9e5cf7e7f49cf42b3a1f00 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_a7d7ec19c66bdfc0835f99d8e6c8367688da0978fc9e5cf7e7f49cf42b3a1f00->enter($__internal_a7d7ec19c66bdfc0835f99d8e6c8367688da0978fc9e5cf7e7f49cf42b3a1f00_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "post_javascripts"));
 
-        $__internal_349269dded614b31a6b85f6bbb2b57ffec62387f986159d9bdda8bf036dbbba4 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_349269dded614b31a6b85f6bbb2b57ffec62387f986159d9bdda8bf036dbbba4->enter($__internal_349269dded614b31a6b85f6bbb2b57ffec62387f986159d9bdda8bf036dbbba4_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "post_javascripts"));
+        $__internal_d95cbb2b208c47416ddc86fa9ae6d7cb032fac79820c8c769fcdc8f37185d0d4 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_d95cbb2b208c47416ddc86fa9ae6d7cb032fac79820c8c769fcdc8f37185d0d4->enter($__internal_d95cbb2b208c47416ddc86fa9ae6d7cb032fac79820c8c769fcdc8f37185d0d4_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "post_javascripts"));
 
-        // line 393
+        // line 478
         echo "    <!-- jQuery -->
     <script src=\"vendor/jquery/jquery.min.js\"></script>
 
@@ -563,15 +657,15 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
 
     <!-- Theme JavaScript -->
     <script src=\"";
-        // line 405
+        // line 490
         echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("js/creative.min.js"), "html", null, true);
         echo "\"></script>
 ";
         
-        $__internal_349269dded614b31a6b85f6bbb2b57ffec62387f986159d9bdda8bf036dbbba4->leave($__internal_349269dded614b31a6b85f6bbb2b57ffec62387f986159d9bdda8bf036dbbba4_prof);
+        $__internal_d95cbb2b208c47416ddc86fa9ae6d7cb032fac79820c8c769fcdc8f37185d0d4->leave($__internal_d95cbb2b208c47416ddc86fa9ae6d7cb032fac79820c8c769fcdc8f37185d0d4_prof);
 
         
-        $__internal_dc7a9279c2ba2cf7e14740609548ac583f17403848d3b622e14f2fbf36400983->leave($__internal_dc7a9279c2ba2cf7e14740609548ac583f17403848d3b622e14f2fbf36400983_prof);
+        $__internal_a7d7ec19c66bdfc0835f99d8e6c8367688da0978fc9e5cf7e7f49cf42b3a1f00->leave($__internal_a7d7ec19c66bdfc0835f99d8e6c8367688da0978fc9e5cf7e7f49cf42b3a1f00_prof);
 
     }
 
@@ -587,7 +681,7 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
 
     public function getDebugInfo()
     {
-        return array (  567 => 405,  553 => 393,  544 => 392,  532 => 385,  530 => 384,  528 => 383,  526 => 382,  524 => 381,  522 => 380,  520 => 379,  517 => 377,  515 => 376,  513 => 375,  511 => 374,  509 => 373,  507 => 372,  505 => 371,  503 => 370,  501 => 369,  499 => 368,  497 => 367,  495 => 366,  492 => 364,  490 => 363,  488 => 362,  486 => 361,  484 => 360,  482 => 359,  480 => 358,  478 => 357,  476 => 356,  474 => 355,  472 => 354,  470 => 353,  468 => 352,  466 => 351,  464 => 350,  462 => 349,  460 => 348,  458 => 347,  456 => 346,  454 => 345,  452 => 344,  450 => 343,  448 => 342,  296 => 191,  285 => 181,  275 => 172,  184 => 82,  139 => 38,  130 => 37,  111 => 26,  102 => 25,  90 => 21,  71 => 6,  62 => 5,  44 => 3,  11 => 1,);
+        return array (  661 => 490,  647 => 478,  638 => 477,  626 => 470,  624 => 469,  622 => 468,  620 => 467,  618 => 466,  616 => 465,  614 => 464,  611 => 462,  609 => 461,  607 => 460,  605 => 459,  603 => 458,  601 => 457,  599 => 456,  597 => 455,  595 => 454,  593 => 453,  591 => 452,  589 => 451,  586 => 449,  584 => 448,  582 => 447,  580 => 446,  578 => 445,  576 => 444,  574 => 443,  572 => 442,  570 => 441,  568 => 440,  566 => 439,  564 => 438,  562 => 437,  560 => 436,  558 => 435,  556 => 434,  554 => 433,  552 => 432,  550 => 431,  548 => 430,  546 => 429,  544 => 428,  542 => 427,  437 => 324,  397 => 287,  375 => 268,  296 => 191,  285 => 181,  275 => 172,  184 => 82,  139 => 38,  130 => 37,  111 => 26,  102 => 25,  90 => 21,  71 => 6,  62 => 5,  44 => 3,  11 => 1,);
     }
 
     /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
@@ -852,12 +946,12 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
                     <div class=\"panel panel-primary\">
                         <div class=\"panel-heading\" role=\"tab\" id=\"headingOne\">
                             <h4 class=\"panel-title\">
-                                <a role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseOne\" aria-expanded=\"true\" aria-controls=\"collapseOne\">
-                                    More about Sleep Apnea
+                                <a class=\"collapsed more-info\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseOne\" aria-expanded=\"false\" aria-controls=\"collapseOne\">
+                                    Sleep Apnea
                                 </a>
                             </h4>
                         </div>
-                        <div id=\"collapseOne\" class=\"panel-collapse collapse in\" role=\"tabpanel\" aria-labelledby=\"headingOne\">
+                        <div id=\"collapseOne\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingOne\">
                             <div class=\"panel-body panel-black\">
                                 Sleep apnea (AP-ne-ah) is a common disorder in which you have one or more pauses in breathing or shallow breaths while you sleep.
                                 <br><br>
@@ -866,7 +960,8 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
                                 Sleep apnea usually is a chronic (ongoing) condition that disrupts your sleep. When your breathing pauses or becomes shallow, you’ll often move out of deep sleep and into light sleep.
                                 <br><br>
                                 As a result, the quality of your sleep is poor, which makes you tired during the day. Sleep apnea is a leading cause of excessive daytime sleepiness.
-
+                                <br><br>
+                                <img style=\"margin:auto;\" src=\"{{ asset('img/portfolio/fullsize/sleepApnea.jpg') }}\" class=\"img-responsive\" alt=\"\">
                                 <br><br>
                                 <a style=\"font-size: 10px;\" href=\"https://www.nhlbi.nih.gov/health/health-topics/topics/sleepapnea\">Source - National Heart, Lung, and Blood Institute</a>
 
@@ -876,28 +971,112 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
                     <div class=\"panel panel-primary\">
                         <div class=\"panel-heading\" role=\"tab\" id=\"headingTwo\">
                             <h4 class=\"panel-title\">
-                                <a class=\"collapsed\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">
-                                    Collapsible Group Item #2
+                                <a class=\"collapsed more-info\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">
+                                    Oral Appliances
                                 </a>
                             </h4>
                         </div>
                         <div id=\"collapseTwo\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingTwo\">
-                            <div class=\"panel-body\">
-                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                            <div class=\"panel-body panel-black\">
+                                <h2>Thornton Adjustable Positioner (TAP)</h2>
+                                <div>
+                                    <img src=\"{{ asset('img/portfolio/fullsize/tap.png') }}\" class=\"img-responsive\" alt=\"\" style=\"float:right; margin:auto; max-width:250px;\"/>
+                                    The Thornton Adjustable Positioner (TAP) is a custom-made two piece adjustable appliance that is worn while sleeping. The trays of the appliance snap over the upper and lower teeth and hook together. The design is based on the same principle as cardiopulmonary resuscitation, CPR. The airway must be opened to allow air to pass through the throat. The TAP holds the lower jaw in a forward position so that it does not shift nor fall open during the night. This prevents the airway from collapsing. The more you pull your jaw forward, the more your airway will open.
+                                    <br><br>
+                                    The TAP is the only mandibular advancement device that can be adjusted easily by the patient or practitioner while in the mouth. This feature allows the patient to always be in control of their treatment. The unique design also allows the patient to fine-tune their treatment position at home to achieve maximum results.
+                                    <br><br>
+                                    Most patients experience relief the very first night they wear their TAP. Although it may take up to a week to get used to wearing a TAP appliance, this is a small hurdle for patients. Nine in ten patients wear the device all night, every night  making the TAP a highly effective solution for both snoring and sleep apnea.
+                                    <br><br>
+                                    <strong>Features</strong>
+
+                                    <ul class=\"text-left\">
+                                        <li>Patient-friendly</li>
+                                        <li>Superior results</li>
+                                        <li>Easy to fit</li>
+                                        <li>Infinitely adjustable</li>
+                                        <li>Precise control of advancement</li>
+                                        <li>Interchangeable hooks</li>
+                                        <li>Freedom for lateral movement</li>
+                                        <li>More room for tongue</li>
+                                        <li>Allows lips to close</li>
+                                    </ul>
+                                    <br><br>
+                                    <strong>The TAP® can help prevent conditions linked to sleep apnea:</strong>
+                                    <ul class=\"text-left\">
+                                        <li>Chronic daytime sleepiness</li>
+                                        <li>Heart attack</li>
+                                        <li>Stroke</li>
+                                        <li>Heartburn, reflux</li>
+
+                                        <li>Morning headaches</li>
+                                        <li>Depression</li>
+                                    </ul>
+                                    <a style=\"font-size: 10px;\" href=\"https://www.sleepassociation.org/thornton-adjustable-positioner-tap/\">Source - American Sleep Association</a>
+
+                                </div>
+                                <hr class=\"dark\">
+                                <h2>Somnomed appliance</h2>
+                                <div>
+                                    <img src=\"{{ asset('img/portfolio/fullsize/somnomedAcrylic-seperate-pieces-new-logo.jpg') }}\" class=\"img-responsive\" alt=\"\" style=\"float:right; margin:auto; max-width:250px;\"/>
+
+                                    <h3>Sleep Apnea Oral Appliance: SomnoDent</h3>
+
+                                    A SomnoDent sleep apnea oral appliance is a premium, custom-fitted dental device
+                                    developed for the treatment of snoring and obstructive sleep apnea. It is an
+                                    effective, comfortable, and durable alternative to CPAP therapy or corrective
+                                    surgery. By simply wearing a SomnoDent while sleeping, your lower jaw (mandible)
+                                    will be moved forward into a comfortable position, allowing relaxation of the
+                                    tissues at the back of your throat and ensuring the base of your tongue does not
+                                    collapse and block your airway, giving you a safe and soundless sleep. Most patients
+                                    and practitioners prefer oral appliance therapy for its comfort, convenience and
+                                    effectiveness.
+
+                                    <br><br>
+
+                                    <h3>Is a SomnoDent Sleep Apnea Oral Appliance Right for Me?</h3>
+                                    A growing number of men and women have discovered SomnoDent to be the perfect
+                                    solution for ending snoring, treating sleep apnea and/or improving sleep quality.
+                                    It is an ideal alternative treatment for patients who have been diagnosed with mild
+                                    to moderate obstructive sleep apnea or for those who have severe OSA, yet are unable
+                                    or unwilling to tolerate CPAP therapy and/or surgery.
+
+                                    <br><br>
+
+                                    <h3>SomnoDent Difference</h3>
+                                    <ul class=\"text-left\">
+                                        <li><strong>Effective:</strong> 91% of patients reported improvement in sleep quality with SomnoDent</li>
+                                        <li><strong>Highest Quality:</strong> FDA 510K cleared , Class II Medical Devices, and manufactured at an ISO 13485 certified facility. Customized using the highest quality acrylic which does not discolor or attract odors.</li>
+                                        <li><strong>Custom-fit:</strong> SomnoDent sleep apnea oral appliances are manufactured using dental impressions of your teeth, ensuring and effortless, custom-fit unique to your mouth</li>
+                                        <li><strong>Non-Restrictive in Movement:</strong> While wearing a SomnoDent, you will be able to fully open and close your mouth, yawn, drink, take oral medication and even speak clearly, making it ideal for the patient who may be claustrophobic.</li>
+                                        <li><strong>Easily Adjustable:</strong> SomnoDent is unlimited in protrusive advancement, meaning that you can advance your lower jaw as forward as possible when wearing the device.</li>
+                                        <li><strong>Highly Adaptable:</strong> If you have missing teeth, crowns, bridge work or wear a full upper denture, a SomnoDent can be adapted to fit your mouth structure.</li>
+
+                                        <li><strong>Patient Compliance:</strong> 88% of patients reported regular use of their SomnoDent device¹</li>
+                                        <li><strong>Enduring Durability:</strong> A combination of premium materials and, for some models, inner cast framework, ensures that the SomnoDent oral device is one of the strongest appliances currently available, making it an ideal treatment option for all patients, especially teeth grinders (bruxers). 1 to 3 year warranty against manufacturing defects.</li>
+                                        <li><strong>Clinically Proven:</strong> 15+ independent studies demonstrate the device’s significant clinical benefits</li>
+                                        <li><strong>Combination Use:</strong> SomnoDent can conveniently be used as a companion to your CPAP for combination therapy, allowing simpler mask fitting, reduced CPAP pressure and a compact alternative for travelling.</li>
+                                    </ul>
+                                    <a style=\"font-size: 10px;\" href=\"https://somnomed.com/us/patients/somnodent-product-information-for-patients//\">Source - Somnomed</a>
+                                </div>
+
                             </div>
                         </div>
                     </div>
                     <div class=\"panel panel-primary\">
                         <div class=\"panel-heading\" role=\"tab\" id=\"headingThree\">
                             <h4 class=\"panel-title\">
-                                <a class=\"collapsed\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">
+                                <a class=\"collapsed more-info\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">
                                     Forms
                                 </a>
                             </h4>
                         </div>
                         <div id=\"collapseThree\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingThree\">
-                            <div class=\"panel-body\">
-                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                            <div class=\"panel-body panel-black\">
+                                <ul class=\"text-left\">
+                                    <li>New Patient</li>
+                                    <li>Insurance Information</li>
+                                    <li>Privacy Notice</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
