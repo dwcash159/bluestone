@@ -25,47 +25,47 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
 
     protected function doDisplay(array $context, array $blocks = array())
     {
-        $__internal_f827796a6a506e14b575d0fa081f0cd3c2abf25b57ffe46defbe5807efdaf03b = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_f827796a6a506e14b575d0fa081f0cd3c2abf25b57ffe46defbe5807efdaf03b->enter($__internal_f827796a6a506e14b575d0fa081f0cd3c2abf25b57ffe46defbe5807efdaf03b_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "default/index.html.twig"));
+        $__internal_f31fd1abc7a7476ded591518462b047173aa271c8f2ec8a08e414cfed8831969 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_f31fd1abc7a7476ded591518462b047173aa271c8f2ec8a08e414cfed8831969->enter($__internal_f31fd1abc7a7476ded591518462b047173aa271c8f2ec8a08e414cfed8831969_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "default/index.html.twig"));
 
-        $__internal_9547b3a64c631da862e1ed0a11ea475e77e118241d023ace3a3f2d27897c4417 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_9547b3a64c631da862e1ed0a11ea475e77e118241d023ace3a3f2d27897c4417->enter($__internal_9547b3a64c631da862e1ed0a11ea475e77e118241d023ace3a3f2d27897c4417_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "default/index.html.twig"));
+        $__internal_f484b13cb9e655073e972021cbb886d84bc3c99d185e1bf833b8c6738f8f39e7 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_f484b13cb9e655073e972021cbb886d84bc3c99d185e1bf833b8c6738f8f39e7->enter($__internal_f484b13cb9e655073e972021cbb886d84bc3c99d185e1bf833b8c6738f8f39e7_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "default/index.html.twig"));
 
         $this->parent->display($context, array_merge($this->blocks, $blocks));
         
-        $__internal_f827796a6a506e14b575d0fa081f0cd3c2abf25b57ffe46defbe5807efdaf03b->leave($__internal_f827796a6a506e14b575d0fa081f0cd3c2abf25b57ffe46defbe5807efdaf03b_prof);
+        $__internal_f31fd1abc7a7476ded591518462b047173aa271c8f2ec8a08e414cfed8831969->leave($__internal_f31fd1abc7a7476ded591518462b047173aa271c8f2ec8a08e414cfed8831969_prof);
 
         
-        $__internal_9547b3a64c631da862e1ed0a11ea475e77e118241d023ace3a3f2d27897c4417->leave($__internal_9547b3a64c631da862e1ed0a11ea475e77e118241d023ace3a3f2d27897c4417_prof);
+        $__internal_f484b13cb9e655073e972021cbb886d84bc3c99d185e1bf833b8c6738f8f39e7->leave($__internal_f484b13cb9e655073e972021cbb886d84bc3c99d185e1bf833b8c6738f8f39e7_prof);
 
     }
 
     // line 3
     public function block_title($context, array $blocks = array())
     {
-        $__internal_0fb625ee0f14af72e3f48030f823186ec8a8c887b1b2bbcbbbc2bcb058b9917a = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_0fb625ee0f14af72e3f48030f823186ec8a8c887b1b2bbcbbbc2bcb058b9917a->enter($__internal_0fb625ee0f14af72e3f48030f823186ec8a8c887b1b2bbcbbbc2bcb058b9917a_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "title"));
+        $__internal_c28f535051df6c97670439282c2b814bf4dacaf7466426767fc6a49d1cbc591a = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_c28f535051df6c97670439282c2b814bf4dacaf7466426767fc6a49d1cbc591a->enter($__internal_c28f535051df6c97670439282c2b814bf4dacaf7466426767fc6a49d1cbc591a_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "title"));
 
-        $__internal_7f4e67ef6cac648f8a4a68e34167d53d0587be208102bb079b26d7d37da2495c = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_7f4e67ef6cac648f8a4a68e34167d53d0587be208102bb079b26d7d37da2495c->enter($__internal_7f4e67ef6cac648f8a4a68e34167d53d0587be208102bb079b26d7d37da2495c_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "title"));
+        $__internal_06cb2ee05a14bc98737ff6d7d9cd68c297a2aafb2e8c55262bdd8be500192bc9 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_06cb2ee05a14bc98737ff6d7d9cd68c297a2aafb2e8c55262bdd8be500192bc9->enter($__internal_06cb2ee05a14bc98737ff6d7d9cd68c297a2aafb2e8c55262bdd8be500192bc9_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "title"));
 
         echo "NTSS";
         
-        $__internal_7f4e67ef6cac648f8a4a68e34167d53d0587be208102bb079b26d7d37da2495c->leave($__internal_7f4e67ef6cac648f8a4a68e34167d53d0587be208102bb079b26d7d37da2495c_prof);
+        $__internal_06cb2ee05a14bc98737ff6d7d9cd68c297a2aafb2e8c55262bdd8be500192bc9->leave($__internal_06cb2ee05a14bc98737ff6d7d9cd68c297a2aafb2e8c55262bdd8be500192bc9_prof);
 
         
-        $__internal_0fb625ee0f14af72e3f48030f823186ec8a8c887b1b2bbcbbbc2bcb058b9917a->leave($__internal_0fb625ee0f14af72e3f48030f823186ec8a8c887b1b2bbcbbbc2bcb058b9917a_prof);
+        $__internal_c28f535051df6c97670439282c2b814bf4dacaf7466426767fc6a49d1cbc591a->leave($__internal_c28f535051df6c97670439282c2b814bf4dacaf7466426767fc6a49d1cbc591a_prof);
 
     }
 
     // line 5
     public function block_stylesheets($context, array $blocks = array())
     {
-        $__internal_cc3255fdb05aa118e97c84001a2f5dc8787b853d238e6a03a3955860e8ca6207 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_cc3255fdb05aa118e97c84001a2f5dc8787b853d238e6a03a3955860e8ca6207->enter($__internal_cc3255fdb05aa118e97c84001a2f5dc8787b853d238e6a03a3955860e8ca6207_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "stylesheets"));
+        $__internal_0b14effd8cb609d6921c8cc3737e9c31f8e0b5dd49c99de88c9141b2a0f4db0a = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_0b14effd8cb609d6921c8cc3737e9c31f8e0b5dd49c99de88c9141b2a0f4db0a->enter($__internal_0b14effd8cb609d6921c8cc3737e9c31f8e0b5dd49c99de88c9141b2a0f4db0a_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "stylesheets"));
 
-        $__internal_25cf5ac9fa0ce72099a67436f16cdff1238e2015c7fdcd693de8dd6c2dabd374 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_25cf5ac9fa0ce72099a67436f16cdff1238e2015c7fdcd693de8dd6c2dabd374->enter($__internal_25cf5ac9fa0ce72099a67436f16cdff1238e2015c7fdcd693de8dd6c2dabd374_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "stylesheets"));
+        $__internal_a1c1b9077635a21256a046d884afc897f064b1d3dc05f09d593ba9151ac26f19 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_a1c1b9077635a21256a046d884afc897f064b1d3dc05f09d593ba9151ac26f19->enter($__internal_a1c1b9077635a21256a046d884afc897f064b1d3dc05f09d593ba9151ac26f19_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "stylesheets"));
 
         // line 6
         echo "    ";
@@ -91,21 +91,21 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
         echo "\" />
 ";
         
-        $__internal_25cf5ac9fa0ce72099a67436f16cdff1238e2015c7fdcd693de8dd6c2dabd374->leave($__internal_25cf5ac9fa0ce72099a67436f16cdff1238e2015c7fdcd693de8dd6c2dabd374_prof);
+        $__internal_a1c1b9077635a21256a046d884afc897f064b1d3dc05f09d593ba9151ac26f19->leave($__internal_a1c1b9077635a21256a046d884afc897f064b1d3dc05f09d593ba9151ac26f19_prof);
 
         
-        $__internal_cc3255fdb05aa118e97c84001a2f5dc8787b853d238e6a03a3955860e8ca6207->leave($__internal_cc3255fdb05aa118e97c84001a2f5dc8787b853d238e6a03a3955860e8ca6207_prof);
+        $__internal_0b14effd8cb609d6921c8cc3737e9c31f8e0b5dd49c99de88c9141b2a0f4db0a->leave($__internal_0b14effd8cb609d6921c8cc3737e9c31f8e0b5dd49c99de88c9141b2a0f4db0a_prof);
 
     }
 
     // line 25
     public function block_pre_javascripts($context, array $blocks = array())
     {
-        $__internal_76b89a95c4a28ef9b10697e22d19cf6f42d869f1d646b4cda8f9ad65ce69e590 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_76b89a95c4a28ef9b10697e22d19cf6f42d869f1d646b4cda8f9ad65ce69e590->enter($__internal_76b89a95c4a28ef9b10697e22d19cf6f42d869f1d646b4cda8f9ad65ce69e590_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "pre_javascripts"));
+        $__internal_8e83ebd3a7d22b87323dcf0d4547fbfad51041c0ea375e84b76516db515a737b = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_8e83ebd3a7d22b87323dcf0d4547fbfad51041c0ea375e84b76516db515a737b->enter($__internal_8e83ebd3a7d22b87323dcf0d4547fbfad51041c0ea375e84b76516db515a737b_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "pre_javascripts"));
 
-        $__internal_7e6b434bb81c8de7f4f9d08717282d3f76cea768478da664b1d4427295faf21e = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_7e6b434bb81c8de7f4f9d08717282d3f76cea768478da664b1d4427295faf21e->enter($__internal_7e6b434bb81c8de7f4f9d08717282d3f76cea768478da664b1d4427295faf21e_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "pre_javascripts"));
+        $__internal_46eb25bb1a7c45121825d816de6e114fdc55eb41ac1235651cc49f1dc8ae490f = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_46eb25bb1a7c45121825d816de6e114fdc55eb41ac1235651cc49f1dc8ae490f->enter($__internal_46eb25bb1a7c45121825d816de6e114fdc55eb41ac1235651cc49f1dc8ae490f_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "pre_javascripts"));
 
         // line 26
         echo "    ";
@@ -119,21 +119,21 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
     <![endif]-->
 ";
         
-        $__internal_7e6b434bb81c8de7f4f9d08717282d3f76cea768478da664b1d4427295faf21e->leave($__internal_7e6b434bb81c8de7f4f9d08717282d3f76cea768478da664b1d4427295faf21e_prof);
+        $__internal_46eb25bb1a7c45121825d816de6e114fdc55eb41ac1235651cc49f1dc8ae490f->leave($__internal_46eb25bb1a7c45121825d816de6e114fdc55eb41ac1235651cc49f1dc8ae490f_prof);
 
         
-        $__internal_76b89a95c4a28ef9b10697e22d19cf6f42d869f1d646b4cda8f9ad65ce69e590->leave($__internal_76b89a95c4a28ef9b10697e22d19cf6f42d869f1d646b4cda8f9ad65ce69e590_prof);
+        $__internal_8e83ebd3a7d22b87323dcf0d4547fbfad51041c0ea375e84b76516db515a737b->leave($__internal_8e83ebd3a7d22b87323dcf0d4547fbfad51041c0ea375e84b76516db515a737b_prof);
 
     }
 
     // line 37
     public function block_body($context, array $blocks = array())
     {
-        $__internal_ca3bde360fc41e47a082d77364a9f9fc3855ff093ee9cc5636d5b9e77263d888 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_ca3bde360fc41e47a082d77364a9f9fc3855ff093ee9cc5636d5b9e77263d888->enter($__internal_ca3bde360fc41e47a082d77364a9f9fc3855ff093ee9cc5636d5b9e77263d888_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
+        $__internal_7564859c2391355fc9382467b225d5f22a7a4b69759bddd69b76f82471aa9b1c = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_7564859c2391355fc9382467b225d5f22a7a4b69759bddd69b76f82471aa9b1c->enter($__internal_7564859c2391355fc9382467b225d5f22a7a4b69759bddd69b76f82471aa9b1c_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
 
-        $__internal_28530d9b80574da6f8e340c34d7042e97e9da56edcc6234cc762a7fee67924cf = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_28530d9b80574da6f8e340c34d7042e97e9da56edcc6234cc762a7fee67924cf->enter($__internal_28530d9b80574da6f8e340c34d7042e97e9da56edcc6234cc762a7fee67924cf_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
+        $__internal_2f748c1d80298d95219d6cf41c81d0b95142440abc4db1ec1efb8c497f638f75 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_2f748c1d80298d95219d6cf41c81d0b95142440abc4db1ec1efb8c497f638f75->enter($__internal_2f748c1d80298d95219d6cf41c81d0b95142440abc4db1ec1efb8c497f638f75_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
 
         // line 38
         echo "    <nav id=\"mainNav\" class=\"navbar navbar-default navbar-fixed-top\">
@@ -355,9 +355,9 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
                     <div class=\"panel panel-primary\">
                         <div class=\"panel-heading\" role=\"tab\" id=\"headingOne\">
                             <h4 class=\"panel-title\">
-                                <a class=\"collapsed more-info\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseOne\" aria-expanded=\"false\" aria-controls=\"collapseOne\">
+                                <div class=\"collapsed more-info\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseOne\" aria-expanded=\"false\" aria-controls=\"collapseOne\">
                                     Sleep Apnea
-                                </a>
+                                </div>
                             </h4>
                         </div>
                         <div id=\"collapseOne\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingOne\">
@@ -383,9 +383,9 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
                     <div class=\"panel panel-primary\">
                         <div class=\"panel-heading\" role=\"tab\" id=\"headingTwo\">
                             <h4 class=\"panel-title\">
-                                <a class=\"collapsed more-info\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">
+                                <div class=\"collapsed more-info\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">
                                     Oral Appliances
-                                </a>
+                                </div>
                             </h4>
                         </div>
                         <div id=\"collapseTwo\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingTwo\">
@@ -395,7 +395,12 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
                                     <img src=\"";
         // line 287
         echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("img/portfolio/fullsize/tap.png"), "html", null, true);
-        echo "\" class=\"img-responsive\" alt=\"\" style=\"float:right; margin:auto; max-width:250px;\"/>
+        echo "\" class=\"img-responsive hidden-xs hidden-sm visible-md-* visible-lg-*\" alt=\"\" style=\"float:right; margin:auto; max-width:250px;\"/>
+
+
+
+
+
                                     The Thornton Adjustable Positioner (TAP) is a custom-made two piece adjustable appliance that is worn while sleeping. The trays of the appliance snap over the upper and lower teeth and hook together. The design is based on the same principle as cardiopulmonary resuscitation, CPR. The airway must be opened to allow air to pass through the throat. The TAP holds the lower jaw in a forward position so that it does not shift nor fall open during the night. This prevents the airway from collapsing. The more you pull your jaw forward, the more your airway will open.
                                     <br><br>
                                     The TAP is the only mandibular advancement device that can be adjusted easily by the patient or practitioner while in the mouth. This feature allows the patient to always be in control of their treatment. The unique design also allows the patient to fine-tune their treatment position at home to achieve maximum results.
@@ -426,6 +431,12 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
                                         <li>Morning headaches</li>
                                         <li>Depression</li>
                                     </ul>
+
+                                    <img src=\"";
+        // line 324
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("img/portfolio/fullsize/tap.png"), "html", null, true);
+        echo "\" class=\"img-responsive hidden-xs hidden-md hidden-lg visible-xs-* visible-sm-*\" alt=\"\" style=\"float:right; margin:auto; max-width:250px;\"/>
+
                                     <a style=\"font-size: 10px;\" href=\"https://www.sleepassociation.org/thornton-adjustable-positioner-tap/\">Source - American Sleep Association</a>
 
                                 </div>
@@ -433,7 +444,7 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
                                 <h2>Somnomed appliance</h2>
                                 <div>
                                     <img src=\"";
-        // line 324
+        // line 332
         echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("img/portfolio/fullsize/somnomedAcrylic-seperate-pieces-new-logo.jpg"), "html", null, true);
         echo "\" class=\"img-responsive\" alt=\"\" style=\"float:right; margin:auto; max-width:250px;\"/>
 
@@ -476,16 +487,46 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
                                     </ul>
                                     <a style=\"font-size: 10px;\" href=\"https://somnomed.com/us/patients/somnodent-product-information-for-patients//\">Source - Somnomed</a>
                                 </div>
+                                <hr class=\"dark\">
+                                <h2>Herbst Appliance</h2>
+                                <div>
+                                    <img src=\"";
+        // line 376
+        echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("img/portfolio/fullsize/herbst.png"), "html", null, true);
+        echo "\" class=\"img-responsive\" alt=\"\" style=\"float:right; margin:auto; max-width:250px;\"/>
 
+                                    <h3>The Herbst for Snoring and Obstructive Sleep Apnea (OSA)</h3>
+
+                                    The Herbst appliance has been used for many years in the treatment of Class II malocclusions
+                                    in children. With minor modifications, the Herbst appliance has been proven to be effective
+                                    in the treatment of snoring and mild to moderate OSA.
+                                    \"Adjustability\" is the primary advantage of the Herbst appliance in snoring and OSA cases.
+                                    The post and sleeve mechanism advances the jaw into a forward position. If desired relief is
+                                    not immediately achieved, this unique appliance design allows for additional forward movement
+                                    of the mandible.
+
+                                    <br><br>
+
+                                    With standard hardware, the mandible is advanced in 1mm increments by adding advancement
+                                    shims onto the posts. The clinician crimps the shims to secure them so the patient will
+                                    not lose the shims or the advancement position.
+                                    The telescopic version of the Herbst allows the clinician to advance the mandible more precisely.
+                                    One turn of the advancement collar, until the next hole appears, advances the
+                                    mandible in 1/4 increments.
+
+                                    <br><br>
+
+                                    <a style=\"font-size: 10px;\" href=\"http://sleepapneadentist.com/wp-content/uploads/2012/12/Herbst-Appliance-Brochure-S31.pdf/\">Source - Sleep Apnea Dentist/</a>
+                                </div>
                             </div>
                         </div>
                     </div>
                     <div class=\"panel panel-primary\">
                         <div class=\"panel-heading\" role=\"tab\" id=\"headingThree\">
                             <h4 class=\"panel-title\">
-                                <a class=\"collapsed more-info\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">
+                                <div class=\"collapsed more-info\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">
                                     Forms
-                                </a>
+                                </div>
                             </h4>
                         </div>
                         <div id=\"collapseThree\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingThree\">
@@ -538,112 +579,112 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
 
 
     ";
-        // line 427
+        // line 462
         echo "    ";
-        // line 428
+        // line 463
         echo "        ";
-        // line 429
+        // line 464
         echo "            ";
-        // line 430
+        // line 465
         echo "                ";
-        // line 431
+        // line 466
         echo "                    ";
-        // line 432
+        // line 467
         echo "                    ";
-        // line 433
+        // line 468
         echo "                ";
-        // line 434
+        // line 469
         echo "                ";
-        // line 435
+        // line 470
         echo "                    ";
-        // line 436
+        // line 471
         echo "                    ";
-        // line 437
+        // line 472
         echo "                    ";
-        // line 438
+        // line 473
         echo "                    ";
-        // line 439
+        // line 474
         echo "                    ";
-        // line 440
+        // line 475
         echo "                    ";
-        // line 441
+        // line 476
         echo "                    ";
-        // line 442
+        // line 477
         echo "                ";
-        // line 443
+        // line 478
         echo "                ";
-        // line 444
+        // line 479
         echo "                    ";
-        // line 445
+        // line 480
         echo "                ";
-        // line 446
+        // line 481
         echo "            ";
-        // line 447
+        // line 482
         echo "        ";
-        // line 448
+        // line 483
         echo "    ";
-        // line 449
+        // line 484
         echo "
     ";
-        // line 451
+        // line 486
         echo "    ";
-        // line 452
+        // line 487
         echo "        ";
-        // line 453
+        // line 488
         echo "            ";
-        // line 454
+        // line 489
         echo "                ";
-        // line 455
+        // line 490
         echo "                    ";
-        // line 456
+        // line 491
         echo "                    ";
-        // line 457
+        // line 492
         echo "                ";
-        // line 458
+        // line 493
         echo "                ";
-        // line 459
+        // line 494
         echo "                    ";
-        // line 460
+        // line 495
         echo "                    ";
-        // line 461
+        // line 496
         echo "                    ";
-        // line 462
+        // line 497
         echo "
                 ";
-        // line 464
+        // line 499
         echo "                ";
-        // line 465
+        // line 500
         echo "                    ";
-        // line 466
+        // line 501
         echo "                ";
-        // line 467
+        // line 502
         echo "            ";
-        // line 468
+        // line 503
         echo "        ";
-        // line 469
+        // line 504
         echo "    ";
-        // line 470
+        // line 505
         echo "
 
 ";
         
-        $__internal_28530d9b80574da6f8e340c34d7042e97e9da56edcc6234cc762a7fee67924cf->leave($__internal_28530d9b80574da6f8e340c34d7042e97e9da56edcc6234cc762a7fee67924cf_prof);
+        $__internal_2f748c1d80298d95219d6cf41c81d0b95142440abc4db1ec1efb8c497f638f75->leave($__internal_2f748c1d80298d95219d6cf41c81d0b95142440abc4db1ec1efb8c497f638f75_prof);
 
         
-        $__internal_ca3bde360fc41e47a082d77364a9f9fc3855ff093ee9cc5636d5b9e77263d888->leave($__internal_ca3bde360fc41e47a082d77364a9f9fc3855ff093ee9cc5636d5b9e77263d888_prof);
+        $__internal_7564859c2391355fc9382467b225d5f22a7a4b69759bddd69b76f82471aa9b1c->leave($__internal_7564859c2391355fc9382467b225d5f22a7a4b69759bddd69b76f82471aa9b1c_prof);
 
     }
 
-    // line 477
+    // line 512
     public function block_post_javascripts($context, array $blocks = array())
     {
-        $__internal_a7d7ec19c66bdfc0835f99d8e6c8367688da0978fc9e5cf7e7f49cf42b3a1f00 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_a7d7ec19c66bdfc0835f99d8e6c8367688da0978fc9e5cf7e7f49cf42b3a1f00->enter($__internal_a7d7ec19c66bdfc0835f99d8e6c8367688da0978fc9e5cf7e7f49cf42b3a1f00_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "post_javascripts"));
+        $__internal_2d0c72c3fec90f8b3eb72f6adb58921b59e71faf43bb2813edf3f2330915fa6d = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_2d0c72c3fec90f8b3eb72f6adb58921b59e71faf43bb2813edf3f2330915fa6d->enter($__internal_2d0c72c3fec90f8b3eb72f6adb58921b59e71faf43bb2813edf3f2330915fa6d_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "post_javascripts"));
 
-        $__internal_d95cbb2b208c47416ddc86fa9ae6d7cb032fac79820c8c769fcdc8f37185d0d4 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_d95cbb2b208c47416ddc86fa9ae6d7cb032fac79820c8c769fcdc8f37185d0d4->enter($__internal_d95cbb2b208c47416ddc86fa9ae6d7cb032fac79820c8c769fcdc8f37185d0d4_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "post_javascripts"));
+        $__internal_59c45cea44e2af354c04dd83c5d00299cb03187d250ad82f0e2a17f0b709689e = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_59c45cea44e2af354c04dd83c5d00299cb03187d250ad82f0e2a17f0b709689e->enter($__internal_59c45cea44e2af354c04dd83c5d00299cb03187d250ad82f0e2a17f0b709689e_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "post_javascripts"));
 
-        // line 478
+        // line 513
         echo "    <!-- jQuery -->
     <script src=\"vendor/jquery/jquery.min.js\"></script>
 
@@ -657,15 +698,15 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
 
     <!-- Theme JavaScript -->
     <script src=\"";
-        // line 490
+        // line 525
         echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("js/creative.min.js"), "html", null, true);
         echo "\"></script>
 ";
         
-        $__internal_d95cbb2b208c47416ddc86fa9ae6d7cb032fac79820c8c769fcdc8f37185d0d4->leave($__internal_d95cbb2b208c47416ddc86fa9ae6d7cb032fac79820c8c769fcdc8f37185d0d4_prof);
+        $__internal_59c45cea44e2af354c04dd83c5d00299cb03187d250ad82f0e2a17f0b709689e->leave($__internal_59c45cea44e2af354c04dd83c5d00299cb03187d250ad82f0e2a17f0b709689e_prof);
 
         
-        $__internal_a7d7ec19c66bdfc0835f99d8e6c8367688da0978fc9e5cf7e7f49cf42b3a1f00->leave($__internal_a7d7ec19c66bdfc0835f99d8e6c8367688da0978fc9e5cf7e7f49cf42b3a1f00_prof);
+        $__internal_2d0c72c3fec90f8b3eb72f6adb58921b59e71faf43bb2813edf3f2330915fa6d->leave($__internal_2d0c72c3fec90f8b3eb72f6adb58921b59e71faf43bb2813edf3f2330915fa6d_prof);
 
     }
 
@@ -681,7 +722,7 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
 
     public function getDebugInfo()
     {
-        return array (  661 => 490,  647 => 478,  638 => 477,  626 => 470,  624 => 469,  622 => 468,  620 => 467,  618 => 466,  616 => 465,  614 => 464,  611 => 462,  609 => 461,  607 => 460,  605 => 459,  603 => 458,  601 => 457,  599 => 456,  597 => 455,  595 => 454,  593 => 453,  591 => 452,  589 => 451,  586 => 449,  584 => 448,  582 => 447,  580 => 446,  578 => 445,  576 => 444,  574 => 443,  572 => 442,  570 => 441,  568 => 440,  566 => 439,  564 => 438,  562 => 437,  560 => 436,  558 => 435,  556 => 434,  554 => 433,  552 => 432,  550 => 431,  548 => 430,  546 => 429,  544 => 428,  542 => 427,  437 => 324,  397 => 287,  375 => 268,  296 => 191,  285 => 181,  275 => 172,  184 => 82,  139 => 38,  130 => 37,  111 => 26,  102 => 25,  90 => 21,  71 => 6,  62 => 5,  44 => 3,  11 => 1,);
+        return array (  702 => 525,  688 => 513,  679 => 512,  667 => 505,  665 => 504,  663 => 503,  661 => 502,  659 => 501,  657 => 500,  655 => 499,  652 => 497,  650 => 496,  648 => 495,  646 => 494,  644 => 493,  642 => 492,  640 => 491,  638 => 490,  636 => 489,  634 => 488,  632 => 487,  630 => 486,  627 => 484,  625 => 483,  623 => 482,  621 => 481,  619 => 480,  617 => 479,  615 => 478,  613 => 477,  611 => 476,  609 => 475,  607 => 474,  605 => 473,  603 => 472,  601 => 471,  599 => 470,  597 => 469,  595 => 468,  593 => 467,  591 => 466,  589 => 465,  587 => 464,  585 => 463,  583 => 462,  495 => 376,  448 => 332,  437 => 324,  397 => 287,  375 => 268,  296 => 191,  285 => 181,  275 => 172,  184 => 82,  139 => 38,  130 => 37,  111 => 26,  102 => 25,  90 => 21,  71 => 6,  62 => 5,  44 => 3,  11 => 1,);
     }
 
     /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
@@ -946,9 +987,9 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
                     <div class=\"panel panel-primary\">
                         <div class=\"panel-heading\" role=\"tab\" id=\"headingOne\">
                             <h4 class=\"panel-title\">
-                                <a class=\"collapsed more-info\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseOne\" aria-expanded=\"false\" aria-controls=\"collapseOne\">
+                                <div class=\"collapsed more-info\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseOne\" aria-expanded=\"false\" aria-controls=\"collapseOne\">
                                     Sleep Apnea
-                                </a>
+                                </div>
                             </h4>
                         </div>
                         <div id=\"collapseOne\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingOne\">
@@ -971,16 +1012,21 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
                     <div class=\"panel panel-primary\">
                         <div class=\"panel-heading\" role=\"tab\" id=\"headingTwo\">
                             <h4 class=\"panel-title\">
-                                <a class=\"collapsed more-info\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">
+                                <div class=\"collapsed more-info\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">
                                     Oral Appliances
-                                </a>
+                                </div>
                             </h4>
                         </div>
                         <div id=\"collapseTwo\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingTwo\">
                             <div class=\"panel-body panel-black\">
                                 <h2>Thornton Adjustable Positioner (TAP)</h2>
                                 <div>
-                                    <img src=\"{{ asset('img/portfolio/fullsize/tap.png') }}\" class=\"img-responsive\" alt=\"\" style=\"float:right; margin:auto; max-width:250px;\"/>
+                                    <img src=\"{{ asset('img/portfolio/fullsize/tap.png') }}\" class=\"img-responsive hidden-xs hidden-sm visible-md-* visible-lg-*\" alt=\"\" style=\"float:right; margin:auto; max-width:250px;\"/>
+
+
+
+
+
                                     The Thornton Adjustable Positioner (TAP) is a custom-made two piece adjustable appliance that is worn while sleeping. The trays of the appliance snap over the upper and lower teeth and hook together. The design is based on the same principle as cardiopulmonary resuscitation, CPR. The airway must be opened to allow air to pass through the throat. The TAP holds the lower jaw in a forward position so that it does not shift nor fall open during the night. This prevents the airway from collapsing. The more you pull your jaw forward, the more your airway will open.
                                     <br><br>
                                     The TAP is the only mandibular advancement device that can be adjusted easily by the patient or practitioner while in the mouth. This feature allows the patient to always be in control of their treatment. The unique design also allows the patient to fine-tune their treatment position at home to achieve maximum results.
@@ -1011,6 +1057,9 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
                                         <li>Morning headaches</li>
                                         <li>Depression</li>
                                     </ul>
+
+                                    <img src=\"{{ asset('img/portfolio/fullsize/tap.png') }}\" class=\"img-responsive hidden-xs hidden-md hidden-lg visible-xs-* visible-sm-*\" alt=\"\" style=\"float:right; margin:auto; max-width:250px;\"/>
+
                                     <a style=\"font-size: 10px;\" href=\"https://www.sleepassociation.org/thornton-adjustable-positioner-tap/\">Source - American Sleep Association</a>
 
                                 </div>
@@ -1058,16 +1107,43 @@ class __TwigTemplate_95037066e25c238379d2683ef141d26d9c743b9e8fa6f9f69f4798984d6
                                     </ul>
                                     <a style=\"font-size: 10px;\" href=\"https://somnomed.com/us/patients/somnodent-product-information-for-patients//\">Source - Somnomed</a>
                                 </div>
+                                <hr class=\"dark\">
+                                <h2>Herbst Appliance</h2>
+                                <div>
+                                    <img src=\"{{ asset('img/portfolio/fullsize/herbst.png') }}\" class=\"img-responsive\" alt=\"\" style=\"float:right; margin:auto; max-width:250px;\"/>
 
+                                    <h3>The Herbst for Snoring and Obstructive Sleep Apnea (OSA)</h3>
+
+                                    The Herbst appliance has been used for many years in the treatment of Class II malocclusions
+                                    in children. With minor modifications, the Herbst appliance has been proven to be effective
+                                    in the treatment of snoring and mild to moderate OSA.
+                                    \"Adjustability\" is the primary advantage of the Herbst appliance in snoring and OSA cases.
+                                    The post and sleeve mechanism advances the jaw into a forward position. If desired relief is
+                                    not immediately achieved, this unique appliance design allows for additional forward movement
+                                    of the mandible.
+
+                                    <br><br>
+
+                                    With standard hardware, the mandible is advanced in 1mm increments by adding advancement
+                                    shims onto the posts. The clinician crimps the shims to secure them so the patient will
+                                    not lose the shims or the advancement position.
+                                    The telescopic version of the Herbst allows the clinician to advance the mandible more precisely.
+                                    One turn of the advancement collar, until the next hole appears, advances the
+                                    mandible in 1/4 increments.
+
+                                    <br><br>
+
+                                    <a style=\"font-size: 10px;\" href=\"http://sleepapneadentist.com/wp-content/uploads/2012/12/Herbst-Appliance-Brochure-S31.pdf/\">Source - Sleep Apnea Dentist/</a>
+                                </div>
                             </div>
                         </div>
                     </div>
                     <div class=\"panel panel-primary\">
                         <div class=\"panel-heading\" role=\"tab\" id=\"headingThree\">
                             <h4 class=\"panel-title\">
-                                <a class=\"collapsed more-info\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">
+                                <div class=\"collapsed more-info\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">
                                     Forms
-                                </a>
+                                </div>
                             </h4>
                         </div>
                         <div id=\"collapseThree\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingThree\">
