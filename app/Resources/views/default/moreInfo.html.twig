@@ -1,0 +1,453 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}More Info{% endblock %}
+
+{% block stylesheets %}
+    {{ parent() }}
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800'
+          rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic'
+          rel='stylesheet' type='text/css'>
+
+    <!-- Plugin CSS -->
+    <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link href="css/creative.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="{{ asset('css/creative.css') }}"/>
+    <link rel="stylesheet" href="{{ asset('css/custom.css') }}"/>
+{% endblock %}
+
+
+{% block pre_javascripts %}
+    {{ parent() }}
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+{% endblock %}
+
+
+
+{% block body %}
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                        data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll hidden-md hidden-lg visible-xs-* visible-sm-*"
+                   href="#page-top">NTSS</a>
+                <a class="navbar-brand page-scroll hidden-xs hidden-sm visible-md-* visible-lg-*" href="#page-top">North
+                    Texas Sleep Solutions</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a class="" href="{{ path('homepage') }}">Home</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#sleep">Sleep Apnea</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#oral-appliances">Oral Appliances</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#testimonials">Testimonials</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#forms">Forms</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#contact">Contact Us</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <section id="sleep">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h1 class="section-heading"><strong>Sleep Apnea</strong></h1>
+                    <hr class="dark">
+                    <div class="text-left">
+                        Sleep apnea (AP-ne-ah) is a common disorder in which you have one or more pauses in breathing or
+                        shallow breaths while you sleep.
+                        <br><br>
+                        Breathing pauses can last from a few seconds to minutes. They may occur 30 times or more an
+                        hour. Typically, normal breathing then starts again, sometimes with a loud snort or choking
+                        sound.
+                        <br><br>
+                        Sleep apnea usually is a chronic (ongoing) condition that disrupts your sleep. When your
+                        breathing pauses or becomes shallow, you’ll often move out of deep sleep and into light sleep.
+                        <br><br>
+                        As a result, the quality of your sleep is poor, which makes you tired during the day. Sleep
+                        apnea is a leading cause of excessive daytime sleepiness.
+                        <br><br>
+                        <img style="margin:auto;" src="{{ asset('img/portfolio/fullsize/sleepApnea.jpg') }}"
+                             class="img-responsive" alt="">
+                        <br><br>
+                        <a style="font-size: 10px;"
+                           href="https://www.nhlbi.nih.gov/health/health-topics/topics/sleepapnea">Source - National
+                            Heart, Lung, and Blood Institute</a>
+                    </div>
+
+                    <h2>Call us today<br><a class="phone phone-black" href="tel:817-431-6764"><i
+                                    class="fa fa-phone sr-icons"></i> 817-431-6764</a></h2>
+                    <a href="#oral-appliances" class="page-scroll btn btn-primary btn-xl sr-button"
+                       style="margin-top:40px;">Check out our Services</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-primary" id="oral-appliances">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h1 class="section-heading"><strong>Oral Appliances</strong></h1>
+                    <hr class="light">
+                    <div class="text-left">
+                        <h2>Thornton Adjustable Positioner (TAP)</h2>
+                        <div>
+                            <img src="{{ asset('img/portfolio/fullsize/tap.png') }}"
+                                 class="img-responsive hidden-xs hidden-sm visible-md-* visible-lg-*" alt=""
+                                 style="float:right; margin:auto; max-width:250px;"/>
+
+                            The Thornton Adjustable Positioner (TAP) is a custom-made two piece adjustable appliance
+                            that is worn while sleeping. The trays of the appliance snap over the upper and lower teeth
+                            and hook together. The design is based on the same principle as cardiopulmonary
+                            resuscitation, CPR. The airway must be opened to allow air to pass through the throat. The
+                            TAP holds the lower jaw in a forward position so that it does not shift nor fall open during
+                            the night. This prevents the airway from collapsing. The more you pull your jaw forward, the
+                            more your airway will open.
+                            <br><br>
+                            The TAP is the only mandibular advancement device that can be adjusted easily by the patient
+                            or practitioner while in the mouth. This feature allows the patient to always be in control
+                            of their treatment. The unique design also allows the patient to fine-tune their treatment
+                            position at home to achieve maximum results.
+                            <br><br>
+                            Most patients experience relief the very first night they wear their TAP. Although it may
+                            take up to a week to get used to wearing a TAP appliance, this is a small hurdle for
+                            patients. Nine in ten patients wear the device all night, every night  making the TAP a
+                            highly effective solution for both snoring and sleep apnea.
+                            <br><br>
+                            <strong>Features</strong>
+
+                            <ul class="text-left">
+                                <li>Patient-friendly</li>
+                                <li>Superior results</li>
+                                <li>Easy to fit</li>
+                                <li>Infinitely adjustable</li>
+                                <li>Precise control of advancement</li>
+                                <li>Interchangeable hooks</li>
+                                <li>Freedom for lateral movement</li>
+                                <li>More room for tongue</li>
+                                <li>Allows lips to close</li>
+                            </ul>
+                            <br><br>
+                            <strong>The TAP® can help prevent conditions linked to sleep apnea:</strong>
+                            <ul class="text-left">
+                                <li>Chronic daytime sleepiness</li>
+                                <li>Heart attack</li>
+                                <li>Stroke</li>
+                                <li>Heartburn, reflux</li>
+
+                                <li>Morning headaches</li>
+                                <li>Depression</li>
+                            </ul>
+                            <div class=" hidden-md hidden-lg visible-xs-* visible-sm-*">
+                                <img src="{{ asset('img/portfolio/fullsize/tap.png') }}" class="img-responsive" alt=""
+                                     style="margin:auto; max-width:250px;"/>
+                                <br>
+                            </div>
+                            <a style="font-size: 10px;"
+                               href="https://www.sleepassociation.org/thornton-adjustable-positioner-tap/">Source -
+                                American Sleep Association</a>
+
+                        </div>
+                        <hr class="dark">
+                        <h2>Somnomed appliance</h2>
+                        <div>
+                            <img src="{{ asset('img/portfolio/fullsize/somnomedAcrylic-seperate-pieces-new-logo.jpg') }}"
+                                 class="img-responsive hidden-xs hidden-sm visible-md-* visible-lg-*" alt=""
+                                 style="float:right; margin:auto; max-width:250px;"/>
+
+                            <h3>Sleep Apnea Oral Appliance: SomnoDent</h3>
+
+                            A SomnoDent sleep apnea oral appliance is a premium, custom-fitted dental device
+                            developed for the treatment of snoring and obstructive sleep apnea. It is an
+                            effective, comfortable, and durable alternative to CPAP therapy or corrective
+                            surgery. By simply wearing a SomnoDent while sleeping, your lower jaw (mandible)
+                            will be moved forward into a comfortable position, allowing relaxation of the
+                            tissues at the back of your throat and ensuring the base of your tongue does not
+                            collapse and block your airway, giving you a safe and soundless sleep. Most patients
+                            and practitioners prefer oral appliance therapy for its comfort, convenience and
+                            effectiveness.
+
+                            <br><br>
+
+                            <h3>Is a SomnoDent Sleep Apnea Oral Appliance Right for Me?</h3>
+                            A growing number of men and women have discovered SomnoDent to be the perfect
+                            solution for ending snoring, treating sleep apnea and/or improving sleep quality.
+                            It is an ideal alternative treatment for patients who have been diagnosed with mild
+                            to moderate obstructive sleep apnea or for those who have severe OSA, yet are unable
+                            or unwilling to tolerate CPAP therapy and/or surgery.
+
+                            <br><br>
+
+                            <h3>SomnoDent Difference</h3>
+                            <ul class="text-left">
+                                <li><strong>Effective:</strong> 91% of patients reported improvement in sleep quality
+                                    with SomnoDent
+                                </li>
+                                <li><strong>Highest Quality:</strong> FDA 510K cleared , Class II Medical Devices, and
+                                    manufactured at an ISO 13485 certified facility. Customized using the highest
+                                    quality acrylic which does not discolor or attract odors.
+                                </li>
+                                <li><strong>Custom-fit:</strong> SomnoDent sleep apnea oral appliances are manufactured
+                                    using dental impressions of your teeth, ensuring and effortless, custom-fit unique
+                                    to your mouth
+                                </li>
+                                <li><strong>Non-Restrictive in Movement:</strong> While wearing a SomnoDent, you will be
+                                    able to fully open and close your mouth, yawn, drink, take oral medication and even
+                                    speak clearly, making it ideal for the patient who may be claustrophobic.
+                                </li>
+                                <li><strong>Easily Adjustable:</strong> SomnoDent is unlimited in protrusive
+                                    advancement, meaning that you can advance your lower jaw as forward as possible when
+                                    wearing the device.
+                                </li>
+                                <li><strong>Highly Adaptable:</strong> If you have missing teeth, crowns, bridge work or
+                                    wear a full upper denture, a SomnoDent can be adapted to fit your mouth structure.
+                                </li>
+
+                                <li><strong>Patient Compliance:</strong> 88% of patients reported regular use of their
+                                    SomnoDent device¹
+                                </li>
+                                <li><strong>Enduring Durability:</strong> A combination of premium materials and, for
+                                    some models, inner cast framework, ensures that the SomnoDent oral device is one of
+                                    the strongest appliances currently available, making it an ideal treatment option
+                                    for all patients, especially teeth grinders (bruxers). 1 to 3 year warranty against
+                                    manufacturing defects.
+                                </li>
+                                <li><strong>Clinically Proven:</strong> 15+ independent studies demonstrate the device’s
+                                    significant clinical benefits
+                                </li>
+                                <li><strong>Combination Use:</strong> SomnoDent can conveniently be used as a companion
+                                    to your CPAP for combination therapy, allowing simpler mask fitting, reduced CPAP
+                                    pressure and a compact alternative for travelling.
+                                </li>
+                            </ul>
+
+                            <div class=" hidden-md hidden-lg visible-xs-* visible-sm-*">
+                                <img src="{{ asset('img/portfolio/fullsize/somnomedAcrylic-seperate-pieces-new-logo.jpg') }}"
+                                     class="img-responsive" alt="" style="margin:auto; max-width:250px;"/>
+                                <br>
+                            </div>
+
+                            <a style="font-size: 10px;"
+                               href="https://somnomed.com/us/patients/somnodent-product-information-for-patients//">Source
+                                - Somnomed</a>
+                        </div>
+                        <hr class="dark">
+                        <h2>Herbst Appliance</h2>
+                        <div>
+                            <img src="{{ asset('img/portfolio/fullsize/herbst.png') }}"
+                                 class="img-responsive hidden-xs hidden-sm visible-md-* visible-lg-*" alt=""
+                                 style="float:right; margin:auto; max-width:250px;"/>
+
+                            <h3>The Herbst for Snoring and Obstructive Sleep Apnea (OSA)</h3>
+
+                            The Herbst appliance has been used for many years in the treatment of Class II malocclusions
+                            in children. With minor modifications, the Herbst appliance has been proven to be effective
+                            in the treatment of snoring and mild to moderate OSA.
+                            "Adjustability" is the primary advantage of the Herbst appliance in snoring and OSA cases.
+                            The post and sleeve mechanism advances the jaw into a forward position. If desired relief is
+                            not immediately achieved, this unique appliance design allows for additional forward
+                            movement
+                            of the mandible.
+
+                            <br><br>
+
+                            With standard hardware, the mandible is advanced in 1mm increments by adding advancement
+                            shims onto the posts. The clinician crimps the shims to secure them so the patient will
+                            not lose the shims or the advancement position.
+                            The telescopic version of the Herbst allows the clinician to advance the mandible more
+                            precisely.
+                            One turn of the advancement collar, until the next hole appears, advances the
+                            mandible in 1/4 increments.
+
+                            <br><br>
+                            <div class=" hidden-md hidden-lg visible-xs-* visible-sm-*">
+                                <img src="{{ asset('img/portfolio/fullsize/herbst.png') }}" class="img-responsive"
+                                     alt="" style="margin:auto; max-width:250px;"/>
+                                <br>
+                            </div>
+                            <a style="font-size: 10px;"
+                               href="http://sleepapneadentist.com/wp-content/uploads/2012/12/Herbst-Appliance-Brochure-S31.pdf/">Source
+                                - Sleep Apnea Dentist/</a>
+                        </div>
+
+
+                    </div>
+
+                    <div class="col-lg-8 col-lg-offset-2 text-center">
+                        <h2>Call us today<br><a class="phone phone-white" href="tel:817-431-6764"><i
+                                        class="fa fa-phone sr-icons"></i> 817-431-6764</a></h2>
+                        <a href="#testimonials" class="page-scroll btn btn-default btn-xl sr-button"
+                           style="margin-top:40px;">Testimonials</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-primaryx" id="testimonials">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Testimonials</h2>
+                    <hr class="dark">
+
+
+                    <div class="text-left">
+                        <h3>
+                            <strong>Highest Recommendation to Dr. Meena and everyone at Pleasant Street Dental, Paula
+                                Hillman, December 2011</strong>
+                        </h3>
+                        As we come to the close of 2011, many of us reflect on the blessings we have received during
+                        this year. How grateful I am that I can cite my experience with Dr. Meena and her staff at
+                        Pleasant Street Dental as among my blessings! From my very first visit at the office, I was
+                        made to feel welcome and comfortable both by the friendly competence of the staff and the
+                        pleasant environment of the offiice itself. Dr. Meena inspires the utmost confidence by her
+                        smile which is so wide that it seems apt to describe it as extending "from sea to shining sea"
+                        and by her wealth of knowledge, skill, and professionalism. Kudos and the highest recommendation
+                        to Dr. Meena and everyone at Pleasant Street Dental!
+                    </div>
+                    <br>
+                    <div class="text-left">
+                        <h3>
+                            <strong>Best Dentist I Have Ever Had - Greta Doyle, October 2011</strong>
+                        </h3>
+                        Dr. Meena is an excellent dentist. She took the time to explain every procedure she was doing.
+                        For example, when I got my teeth whitened, Dr. Meena was very supportive, and thorough when
+                        explaining the process. She is a professional and has a naturally lovely personality.
+                        I would recommend Dr. Meena to everyone. She is the best dentist I have ever had.
+                    </div>
+
+                </div>
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2>Call us today<br><a class="phone phone-black" href="tel:817-431-6764"><i
+                                    class="fa fa-phone sr-icons"></i> 817-431-6764</a></h2>
+                    <a href="#forms" class="page-scroll btn btn-primary btn-xl sr-button"
+                       style="margin-top:40px;">Forms</a>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-primary" id="forms" style="padding:50px 0;">
+
+        <div class="container">
+            <div class="row" style="margin: auto;">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Forms</h2>
+                    <hr class="light">
+
+                    <ul class="text-left" style="list-style-type:none; font-size: 30px;">
+                        <li>New Patient</li>
+                        <li>Insurance Information</li>
+                        <li>Privacy Notice</li>
+                        <li>Privacy Notice</li>
+                        <li>New Patient</li>
+                        <li>Insurance Information</li>
+                        <li>Privacy Notice</li>
+                        <li>Privacy Notice</li>
+                    </ul>
+
+                    <div style="margin-top:40px;">
+                        <img src="{{ asset('img/portfolio/fullsize/forms2.jpg') }}" class="img-responsive img-round-20" alt="" />
+                        <br>
+                    </div>
+
+                    <div class="col-lg-8 col-lg-offset-2 text-center">
+                        <h2>Call us today<br><a class="phone phone-white" href="tel:817-431-6764"><i
+                                        class="fa fa-phone sr-icons"></i> 817-431-6764</a></h2>
+                        <a href="#testimonials" class="page-scroll btn btn-default btn-xl sr-button"
+                           style="margin-top:40px;">Testimonials</a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+
+                    <h2 class="section-heading">Contact Us</h2>
+                    <hr class="dark">
+
+                    <h1 class="section-heading">We're here for you!</h1>
+                    <h2><strong>North Texas Sleep Solutions</strong><br>Dr. Rebecca Lauck</h2>
+                    <hr class="dark">
+                    <h4>1675 Keller Parkway<br>Suite 100<br>Keller, Texas 76248</h4>
+
+                    <div class="col-lg-5 col-lg-offset-1 text-center">
+                        <i class="fa fa-3x  fa-phone sr-icons"></i>
+                        <h4 style="margin-top:6px;"><a style="color:#333;" class="phone" href="tel:817-431-6764"> 817-431-6764</a></h4>
+                    </div>
+                    <div class="col-lg-5 text-center">
+                        <i class="fa fa-3x fa-envelope-o sr-icons"></i>
+                        <h4 style="margin-top:6px;"><a style="color:#333;" class="phone" href="mailto:ntxsleepsolutions@gmail.com">ntxsleepsolutions@gmail.com</a></h4>
+                    </div>
+
+                    <div class="col-lg-12 well" style="height: 300px; background-color: rgba(22, 102, 161, 0.7);">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3348.6139696127607!2d-97.21530488424372!3d32.934795980924655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864dd6e645f479d5%3A0x3ac8250fcb25fdb8!2s1675+Keller+Pkwy+%23100%2C+Keller%2C+TX+76248!5e0!3m2!1sen!2sus!4v1483138439774"
+                                width="100%" height="100%" frameborder="0" style="border:0"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+{% endblock %}
+
+
+
+
+{% block post_javascripts %}
+    <!-- jQuery -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="vendor/scrollreveal/scrollreveal.min.js"></script>
+    <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="{{ asset('js/creative.min.js') }}"></script>
+{% endblock %}

@@ -113,5 +113,6 @@
   'WebProfilerBundle:Collector:exception.css.twig' => __DIR__.'/../../../vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Collector/exception.css.twig',
   'WebProfilerBundle:Router:panel.html.twig' => __DIR__.'/../../../vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Router/panel.html.twig',
   ':default:index.html.twig' => __DIR__.'/../../../app/Resources/views/default/index.html.twig',
+  ':default:moreInfo.html.twig' => __DIR__.'/../../../app/Resources/views/default/moreInfo.html.twig',
   '::base.html.twig' => __DIR__.'/../../../app/Resources/views/base.html.twig',
 );

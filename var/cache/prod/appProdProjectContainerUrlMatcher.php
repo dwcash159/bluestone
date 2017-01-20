@@ -36,6 +36,11 @@ class appProdProjectContainerUrlMatcher extends Symfony\Bundle\FrameworkBundle\R
             return array (  '_controller' => 'AppBundle\\Controller\\DefaultController::indexAction',  '_route' => 'homepage',);
         }
 
+        // more
+        if ($pathinfo === '/moreInfo') {
+            return array (  '_controller' => 'AppBundle\\Controller\\DefaultController::moreInfoAction',  '_route' => 'more',);
+        }
+
         throw 0 < count($allow) ? new MethodNotAllowedException(array_unique($allow)) : new ResourceNotFoundException();
     }
 }
