@@ -25,47 +25,47 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
 
     protected function doDisplay(array $context, array $blocks = array())
     {
-        $__internal_9cce52de8f68ddc5ba63da3493da7364ef4b7359ffabaa3170df2a68dbcbc63b = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_9cce52de8f68ddc5ba63da3493da7364ef4b7359ffabaa3170df2a68dbcbc63b->enter($__internal_9cce52de8f68ddc5ba63da3493da7364ef4b7359ffabaa3170df2a68dbcbc63b_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "default/index.html.twig"));
+        $__internal_ba988c9fe606793624fcc270fd19b8839dec8ae95ec711371059f65e41db0d37 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_ba988c9fe606793624fcc270fd19b8839dec8ae95ec711371059f65e41db0d37->enter($__internal_ba988c9fe606793624fcc270fd19b8839dec8ae95ec711371059f65e41db0d37_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "default/index.html.twig"));
 
-        $__internal_0fde16fbe0d3fc14371f0ea90903d6dd767489c5ef1b92c5d6c81cf1afb8d690 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_0fde16fbe0d3fc14371f0ea90903d6dd767489c5ef1b92c5d6c81cf1afb8d690->enter($__internal_0fde16fbe0d3fc14371f0ea90903d6dd767489c5ef1b92c5d6c81cf1afb8d690_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "default/index.html.twig"));
+        $__internal_243619cb22740c7e3e9e89c0e91225531a1142b717801a7ef85100c3f3bbed38 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_243619cb22740c7e3e9e89c0e91225531a1142b717801a7ef85100c3f3bbed38->enter($__internal_243619cb22740c7e3e9e89c0e91225531a1142b717801a7ef85100c3f3bbed38_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "default/index.html.twig"));
 
         $this->parent->display($context, array_merge($this->blocks, $blocks));
         
-        $__internal_9cce52de8f68ddc5ba63da3493da7364ef4b7359ffabaa3170df2a68dbcbc63b->leave($__internal_9cce52de8f68ddc5ba63da3493da7364ef4b7359ffabaa3170df2a68dbcbc63b_prof);
+        $__internal_ba988c9fe606793624fcc270fd19b8839dec8ae95ec711371059f65e41db0d37->leave($__internal_ba988c9fe606793624fcc270fd19b8839dec8ae95ec711371059f65e41db0d37_prof);
 
         
-        $__internal_0fde16fbe0d3fc14371f0ea90903d6dd767489c5ef1b92c5d6c81cf1afb8d690->leave($__internal_0fde16fbe0d3fc14371f0ea90903d6dd767489c5ef1b92c5d6c81cf1afb8d690_prof);
+        $__internal_243619cb22740c7e3e9e89c0e91225531a1142b717801a7ef85100c3f3bbed38->leave($__internal_243619cb22740c7e3e9e89c0e91225531a1142b717801a7ef85100c3f3bbed38_prof);
 
     }
 
     // line 3
     public function block_title($context, array $blocks = array())
     {
-        $__internal_c937c3a494e0d626734f271169303d3fb8ff4b5c005b01227b6de375c78af37c = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_c937c3a494e0d626734f271169303d3fb8ff4b5c005b01227b6de375c78af37c->enter($__internal_c937c3a494e0d626734f271169303d3fb8ff4b5c005b01227b6de375c78af37c_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "title"));
+        $__internal_33ce36199ca09e167965b584065e5faf323458f338b75868aa82a299aab36abd = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_33ce36199ca09e167965b584065e5faf323458f338b75868aa82a299aab36abd->enter($__internal_33ce36199ca09e167965b584065e5faf323458f338b75868aa82a299aab36abd_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "title"));
 
-        $__internal_2f49ff2631ecc9c110e52e0e97053f3e06ff67c446292964ad9b2dbce88648d3 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_2f49ff2631ecc9c110e52e0e97053f3e06ff67c446292964ad9b2dbce88648d3->enter($__internal_2f49ff2631ecc9c110e52e0e97053f3e06ff67c446292964ad9b2dbce88648d3_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "title"));
+        $__internal_191f46111c61f265591ee3555196144146fb52c6ba2f791561f9ef98887fc686 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_191f46111c61f265591ee3555196144146fb52c6ba2f791561f9ef98887fc686->enter($__internal_191f46111c61f265591ee3555196144146fb52c6ba2f791561f9ef98887fc686_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "title"));
 
         echo "NTSS";
         
-        $__internal_2f49ff2631ecc9c110e52e0e97053f3e06ff67c446292964ad9b2dbce88648d3->leave($__internal_2f49ff2631ecc9c110e52e0e97053f3e06ff67c446292964ad9b2dbce88648d3_prof);
+        $__internal_191f46111c61f265591ee3555196144146fb52c6ba2f791561f9ef98887fc686->leave($__internal_191f46111c61f265591ee3555196144146fb52c6ba2f791561f9ef98887fc686_prof);
 
         
-        $__internal_c937c3a494e0d626734f271169303d3fb8ff4b5c005b01227b6de375c78af37c->leave($__internal_c937c3a494e0d626734f271169303d3fb8ff4b5c005b01227b6de375c78af37c_prof);
+        $__internal_33ce36199ca09e167965b584065e5faf323458f338b75868aa82a299aab36abd->leave($__internal_33ce36199ca09e167965b584065e5faf323458f338b75868aa82a299aab36abd_prof);
 
     }
 
     // line 5
     public function block_stylesheets($context, array $blocks = array())
     {
-        $__internal_2d5ea507783d46988f5e8c71e375a1e5ab826ea1506004d1643500646d9da3e1 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_2d5ea507783d46988f5e8c71e375a1e5ab826ea1506004d1643500646d9da3e1->enter($__internal_2d5ea507783d46988f5e8c71e375a1e5ab826ea1506004d1643500646d9da3e1_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "stylesheets"));
+        $__internal_e095ac145c6ab6456263cb7e210714eb55c000267618d1faee2663568fa838bd = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_e095ac145c6ab6456263cb7e210714eb55c000267618d1faee2663568fa838bd->enter($__internal_e095ac145c6ab6456263cb7e210714eb55c000267618d1faee2663568fa838bd_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "stylesheets"));
 
-        $__internal_a5e902b3e9e54d8f48469cbc38934f4268d115a0d0607e729b58a9d96ec9cc1e = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_a5e902b3e9e54d8f48469cbc38934f4268d115a0d0607e729b58a9d96ec9cc1e->enter($__internal_a5e902b3e9e54d8f48469cbc38934f4268d115a0d0607e729b58a9d96ec9cc1e_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "stylesheets"));
+        $__internal_58a0edfc1b572ff06b0cd71df34386c5f6442b80741638a874bd3b0c997a50a0 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_58a0edfc1b572ff06b0cd71df34386c5f6442b80741638a874bd3b0c997a50a0->enter($__internal_58a0edfc1b572ff06b0cd71df34386c5f6442b80741638a874bd3b0c997a50a0_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "stylesheets"));
 
         // line 6
         echo "    ";
@@ -95,21 +95,21 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
         echo "\" />
 ";
         
-        $__internal_a5e902b3e9e54d8f48469cbc38934f4268d115a0d0607e729b58a9d96ec9cc1e->leave($__internal_a5e902b3e9e54d8f48469cbc38934f4268d115a0d0607e729b58a9d96ec9cc1e_prof);
+        $__internal_58a0edfc1b572ff06b0cd71df34386c5f6442b80741638a874bd3b0c997a50a0->leave($__internal_58a0edfc1b572ff06b0cd71df34386c5f6442b80741638a874bd3b0c997a50a0_prof);
 
         
-        $__internal_2d5ea507783d46988f5e8c71e375a1e5ab826ea1506004d1643500646d9da3e1->leave($__internal_2d5ea507783d46988f5e8c71e375a1e5ab826ea1506004d1643500646d9da3e1_prof);
+        $__internal_e095ac145c6ab6456263cb7e210714eb55c000267618d1faee2663568fa838bd->leave($__internal_e095ac145c6ab6456263cb7e210714eb55c000267618d1faee2663568fa838bd_prof);
 
     }
 
     // line 26
     public function block_pre_javascripts($context, array $blocks = array())
     {
-        $__internal_dcb0f364eca8440910e07c0a551728ca863f57176edd897a0385250447d477e3 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_dcb0f364eca8440910e07c0a551728ca863f57176edd897a0385250447d477e3->enter($__internal_dcb0f364eca8440910e07c0a551728ca863f57176edd897a0385250447d477e3_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "pre_javascripts"));
+        $__internal_13ad9b87ea01a9790e106b096ece05d7a5ebd4fbf4ccb403bef66eda24daae84 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_13ad9b87ea01a9790e106b096ece05d7a5ebd4fbf4ccb403bef66eda24daae84->enter($__internal_13ad9b87ea01a9790e106b096ece05d7a5ebd4fbf4ccb403bef66eda24daae84_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "pre_javascripts"));
 
-        $__internal_c89bfcaa03f56e9b0d56487910b13a541f7185f67955d48d43837931c9b6adde = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_c89bfcaa03f56e9b0d56487910b13a541f7185f67955d48d43837931c9b6adde->enter($__internal_c89bfcaa03f56e9b0d56487910b13a541f7185f67955d48d43837931c9b6adde_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "pre_javascripts"));
+        $__internal_75267ed9adee849c984fb7fedf2347f240d7c04abada383790adef8147614bf1 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_75267ed9adee849c984fb7fedf2347f240d7c04abada383790adef8147614bf1->enter($__internal_75267ed9adee849c984fb7fedf2347f240d7c04abada383790adef8147614bf1_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "pre_javascripts"));
 
         // line 27
         echo "    ";
@@ -123,21 +123,21 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
     <![endif]-->
 ";
         
-        $__internal_c89bfcaa03f56e9b0d56487910b13a541f7185f67955d48d43837931c9b6adde->leave($__internal_c89bfcaa03f56e9b0d56487910b13a541f7185f67955d48d43837931c9b6adde_prof);
+        $__internal_75267ed9adee849c984fb7fedf2347f240d7c04abada383790adef8147614bf1->leave($__internal_75267ed9adee849c984fb7fedf2347f240d7c04abada383790adef8147614bf1_prof);
 
         
-        $__internal_dcb0f364eca8440910e07c0a551728ca863f57176edd897a0385250447d477e3->leave($__internal_dcb0f364eca8440910e07c0a551728ca863f57176edd897a0385250447d477e3_prof);
+        $__internal_13ad9b87ea01a9790e106b096ece05d7a5ebd4fbf4ccb403bef66eda24daae84->leave($__internal_13ad9b87ea01a9790e106b096ece05d7a5ebd4fbf4ccb403bef66eda24daae84_prof);
 
     }
 
     // line 38
     public function block_body($context, array $blocks = array())
     {
-        $__internal_e38ce3c0e0c9ab27f03733342d494feefe544147081ac7a733a6e701efd2d446 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_e38ce3c0e0c9ab27f03733342d494feefe544147081ac7a733a6e701efd2d446->enter($__internal_e38ce3c0e0c9ab27f03733342d494feefe544147081ac7a733a6e701efd2d446_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
+        $__internal_c9847e43887137044669b843b8b173cd8f8e0ced22327d7bbab52132abc931c1 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_c9847e43887137044669b843b8b173cd8f8e0ced22327d7bbab52132abc931c1->enter($__internal_c9847e43887137044669b843b8b173cd8f8e0ced22327d7bbab52132abc931c1_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
 
-        $__internal_50956dee9b557b36bf20d6bfbbcd3352a7916b8f705f02a16910b32d462bb198 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_50956dee9b557b36bf20d6bfbbcd3352a7916b8f705f02a16910b32d462bb198->enter($__internal_50956dee9b557b36bf20d6bfbbcd3352a7916b8f705f02a16910b32d462bb198_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
+        $__internal_89397f3f5ea12b4a6489bc4ac50e43d4d75d876f0ef418b37fc48ccbc53da341 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_89397f3f5ea12b4a6489bc4ac50e43d4d75d876f0ef418b37fc48ccbc53da341->enter($__internal_89397f3f5ea12b4a6489bc4ac50e43d4d75d876f0ef418b37fc48ccbc53da341_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
 
         // line 39
         echo "    <nav id=\"mainNav\" class=\"navbar navbar-default navbar-fixed-top\">
@@ -191,6 +191,10 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
         echo "                <h2>Tired of the Snoring?</h2>
                 <h5>Solutions for a better Quality of Life</h5>
                 <h2>Call us today<br><a class=\"phone phone-white\" href=\"tel:817-431-6764\"><i class=\"fa fa-phone sr-icons\"></i> 817-431-6764</a></h2>
+
+                ";
+        // line 88
+        echo "
             </div>
             <a style=\"margin-top:40px;\" href=\"#sleep\" class=\"btn btn-primary btn-xl page-scroll\">Find Out More about Sleep Apnea</a>
         </div>
@@ -204,24 +208,25 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                     <h1 class=\"section-heading\"><strong>Your Problem</strong></h1>
                     <hr class=\"light\">
 
+                    <div class=\"text-left\">
 
-                    <p>At least 40 million Americans suffer from chronic, long term sleep disorders each year.
-                       The majority of these disorders can result in sleep deprivation which interferes with work,
-                       driving, and school activites.
-                    </p>
+                        <p>At least 40 million Americans suffer from chronic, long term sleep disorders each year.
+                           The majority of these disorders can result in sleep deprivation which interferes with work,
+                           driving, and school activites.
+                        </p>
 
-                    <h3 class=\"section-heading\">Signs of Sleep Apnea include</h3>
-                    <hr class=\"light\">
-                    <ul class=\"text-left\">
-                        <li>Loud snoring that may be associated with breathing pauses or gasping for breath</li>
-                        <li>Excessive sleepiness when awake or unintended episodes of falling asleep</li>
-                        <li>Continuing to feel tired or fatiuged no matter how long you sleep</li>
-                    </ul>
-                    <p>Untreated sleep disorders are directly linked to many chronic diseases, including obesity,
-                       hypertension, diabetes, impotence, arrhythmia, and stroke.
-                    </p>
+                        <h3 class=\"section-heading\">Signs of Sleep Apnea include</h3>
+                        <hr class=\"light\">
+                        <ul class=\"text-left\">
+                            <li>Loud snoring that may be associated with breathing pauses or gasping for breath</li>
+                            <li>Excessive sleepiness when awake or unintended episodes of falling asleep</li>
+                            <li>Continuing to feel tired or fatiuged no matter how long you sleep</li>
+                        </ul>
+                        <p>Untreated sleep disorders are directly linked to many chronic diseases, including obesity,
+                           hypertension, diabetes, impotence, arrhythmia, and stroke.
+                        </p>
 
-
+                    </div>
                     <a href=\"#selfcheck\" class=\"page-scroll btn btn-default btn-xl sr-button\" style=\"margin-top:40px;\">Take self check</a>
                 </div>
             </div>
@@ -234,23 +239,26 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
             <div class=\"row\">
                 <div class=\"col-lg-8 col-lg-offset-2 text-center\">
                     <h1 class=\"section-heading\"><strong>Quick Self Check</strong></h1>
-                    <h2 class=\"section-heading\">Are you struggling to Breathe when you are sleeping?</h2>
-                    <hr class=\"light\">
+
+                    <div class=\"text-left\">
+                        <h2 class=\"section-heading\">Are you struggling to Breathe when you are sleeping?</h2>
+                        <hr class=\"light\">
 
 
-                    <h3 class=\"section-heading\">Even if you don't THINK you have a problem, take this quick self check</h3>
+                        <h3 class=\"section-heading\">Even if you don't THINK you have a problem, take this quick self check</h3>
 
-                    <ul class=\"text-left\">
-                        <li>Do you SNORE?</li>
-                        <li>Are you TIRED during the day?</li>
-                        <li>Has anyone seen you CHOKING or GASPING when you sleep?</li>
-                        <li>Have you been told you have HIGH BLOOD PRESSURE?</li>
-                        <li>Do you have ACID REFLUX?</li>
-                        <li>Do you have DIABETES</li>
-                    </ul>
+                        <ul class=\"text-left\">
+                            <li>Do you SNORE?</li>
+                            <li>Are you TIRED during the day?</li>
+                            <li>Has anyone seen you CHOKING or GASPING when you sleep?</li>
+                            <li>Have you been told you have HIGH BLOOD PRESSURE?</li>
+                            <li>Do you have ACID REFLUX?</li>
+                            <li>Do you have DIABETES</li>
+                        </ul>
 
-                    <p>If you answered YES to more than TWO of the questions give us a call to inquire about home sleep testing.
-                    </p>
+                        <p>If you answered YES to more than TWO of the questions give us a call to inquire about home sleep testing.
+                        </p>
+                        </div>
                     <h2>Call us today<br><a class=\"phone phone-black\" href=\"tel:817-431-6764\"><i class=\"fa fa-phone sr-icons\"></i> 817-431-6764</a></h2>
                     <a href=\"#services\" class=\"page-scroll btn btn-primary btn-xl sr-button\" style=\"margin-top:40px;\">Check out our Services</a>
                 </div>
@@ -278,33 +286,40 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                 <div class=\"col-lg-4 col-md-6 text-center\">
                     <div class=\"service-box\">
                         ";
-        // line 173
+        // line 180
         echo "                        <h3>CPAP</h3>
+                        <div class=\"text-left\">
                         <p>Continuous positive airway pressure therapy (CPAP ) uses a machine to help a person who has
                             obstructive sleep apnea (OSA) breathe more easily during sleep. A CPAP machine increases
                             air pressure in your throat so that your airway doesn't collapse when you breathe in.</p>
+                            </div>
                     </div>
                 </div>
                 <div class=\"col-lg-4 col-md-6 text-center\">
                     <div class=\"service-box\">
                         ";
-        // line 182
+        // line 191
         echo "                        <h3>Surgery</h3>
+                        <div class=\"text-left\">
                         <p>It involves removing and repositioning excess tissue in the throat to make the airway wider.
                             The surgeon can trim down your soft palate and uvula, remove your tonsils, and reposition
                             some of the muscles of the soft palate. UPPP and other soft palate procedures are the most
                             common type of surgery for sleep apne</p>
+                            </div>
                     </div>
                 </div>
                 <div class=\"col-lg-4 col-md-6 text-center\">
                     <div class=\"service-box\">
                         ";
-        // line 192
+        // line 203
         echo "                        <h3>Oral Appliance Therapy</h3>
+                        <div class=\"text-left\">
                         <p >Also called Jaw Advancing Device (JAD) or Mandibular Advancement Device (MAD), these
                             sleep apnea mouth pieces are custom made by dentists using a plastic-like mold to form
                             to the specific shape of the patients teeth and mouth. Not only do they work against sleep
                             apnea, they are also effective to stop snoring.</p>
+                            </div>
+
                     </div>
                 </div>
 
@@ -320,18 +335,28 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
         <div class=\"container\">
             <div class=\"row\">
                 <div class=\"col-lg-8 col-lg-offset-2 text-center\">
+
+                    <h2 class=\"section-heading\">Contact Us</h2>
+                    <hr class=\"dark\">
+
                     <h1 class=\"section-heading\">We're here for you!</h1>
                     <h2><strong>North Texas Sleep Solutions</strong><br>Dr. Rebecca Lauck</h2>
                     <hr class=\"dark\">
                     <h4>1675 Keller Parkway<br>Suite 100<br>Keller, Texas 76248</h4>
 
-                    <div class=\"col-lg-5 col-lg-offset-1 text-center\">
+                    <div class=\"col-lg-4 csol-lg-offset-1 text-center\">
                         <i class=\"fa fa-3x  fa-phone sr-icons\"></i>
                         <h4 style=\"margin-top:6px;\"><a style=\"color:#333;\" class=\"phone\" href=\"tel:817-431-6764\"> 817-431-6764</a></h4>
                     </div>
-                    <div class=\"col-lg-5 text-center\">
+                    <div class=\"col-lg-4 text-center\">
                         <i class=\"fa fa-3x fa-envelope-o sr-icons\"></i>
                         <h4 style=\"margin-top:6px;\"><a style=\"color:#333;\" class=\"phone\" href=\"mailto:ntxsleepsolutions@gmail.com\">ntxsleepsolutions@gmail.com</a></h4>
+                    </div>
+                    <div class=\"col-lg-4 text-center\">
+                        <a  class=\"phone\" href=\"https://www.facebook.com/bluestonedentaltx/\">
+                            <i class=\"fa fa-3x fa-facebook sr-icons\" style=\"color:#3B5998;\"></i>
+                            <h4 style=\"margin-top:6px; color:#333;\">Connect with Us</h4>
+                        </a>
                     </div>
 
                     <div class=\"col-lg-12 well\" style=\"height: 300px; background-color: rgba(22, 102, 161, 0.7);\">
@@ -339,7 +364,7 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                             width=\"100%\" height=\"100%\" frameborder=\"0\" style=\"border:0\"></iframe>
                     </div>
 
-                    <a style=\"margin-top:40px;\" href=\"#more\" class=\"page-scroll btn btn-primary btn-xl sr-button\">More Information</a>
+                    <a style=\"margin-top:40px;\" href=\"#about\" class=\"page-scroll btn btn-primary btn-xl sr-button\">About Us</a>
                 </div>
             </div>
         </div>
@@ -353,9 +378,10 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                     <hr class=\"light\">
                     <h2 class=\"section-heading\">Meet Dr. Rebecca Lauck</h2>
 
-                    <img src=\"img/portfolio/lauck.jpg\" class=\"img-responsive about-us\" alt=\"Responsive image\">
+                    <img src=\"img/portfolio/lauck.jpg\" class=\"img-responsive img-round-50\" alt=\"Responsive image\">
 
                     <hr class=\"light\">
+                    <div class=\"text-left\">
                     <p>After earning her Doctorate in Dental Surgery at Baylor College of Dentistry in Dallas, Dr. Lauck
                        has completed over 2,500 hours of continued education and since 2001 has focused her studies on
                         TMJ and Sleep Apnea treatments.
@@ -367,6 +393,7 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                         Her practice, North Texas Sleep Solutions, is dedicated to treating patients with Obstructive
                         Sleep Apnea and snoring.
                     </p>
+                        </div>
                 </div>
                 <div class=\"col-lg-5 col-lg-offset-1 text-center\">
                     <i class=\"fa fa-3x  fa-phone sr-icons\"></i>
@@ -382,112 +409,112 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
 
 
     ";
-        // line 274
-        echo "    ";
-        // line 275
-        echo "        ";
-        // line 276
-        echo "            ";
-        // line 277
-        echo "                ";
-        // line 278
-        echo "                    ";
-        // line 279
-        echo "                    ";
-        // line 280
-        echo "                ";
-        // line 281
-        echo "                ";
-        // line 282
-        echo "                    ";
-        // line 283
-        echo "                    ";
-        // line 284
-        echo "                    ";
-        // line 285
-        echo "                    ";
-        // line 286
-        echo "                    ";
-        // line 287
-        echo "                    ";
-        // line 288
-        echo "                    ";
-        // line 289
-        echo "                ";
-        // line 290
-        echo "                ";
-        // line 291
-        echo "                    ";
-        // line 292
-        echo "                ";
-        // line 293
-        echo "            ";
-        // line 294
-        echo "        ";
-        // line 295
-        echo "    ";
-        // line 296
-        echo "
-    ";
-        // line 298
-        echo "    ";
-        // line 299
-        echo "        ";
         // line 300
-        echo "            ";
+        echo "    ";
         // line 301
-        echo "                ";
+        echo "        ";
         // line 302
-        echo "                    ";
+        echo "            ";
         // line 303
-        echo "                    ";
+        echo "                ";
         // line 304
-        echo "                ";
+        echo "                    ";
         // line 305
-        echo "                ";
+        echo "                    ";
         // line 306
-        echo "                    ";
+        echo "                ";
         // line 307
-        echo "                    ";
+        echo "                ";
         // line 308
         echo "                    ";
         // line 309
-        echo "
-                ";
+        echo "                    ";
+        // line 310
+        echo "                    ";
         // line 311
-        echo "                ";
+        echo "                    ";
         // line 312
         echo "                    ";
         // line 313
-        echo "                ";
+        echo "                    ";
         // line 314
-        echo "            ";
+        echo "                    ";
         // line 315
-        echo "        ";
+        echo "                ";
         // line 316
-        echo "    ";
+        echo "                ";
         // line 317
+        echo "                    ";
+        // line 318
+        echo "                ";
+        // line 319
+        echo "            ";
+        // line 320
+        echo "        ";
+        // line 321
+        echo "    ";
+        // line 322
+        echo "
+    ";
+        // line 324
+        echo "    ";
+        // line 325
+        echo "        ";
+        // line 326
+        echo "            ";
+        // line 327
+        echo "                ";
+        // line 328
+        echo "                    ";
+        // line 329
+        echo "                    ";
+        // line 330
+        echo "                ";
+        // line 331
+        echo "                ";
+        // line 332
+        echo "                    ";
+        // line 333
+        echo "                    ";
+        // line 334
+        echo "                    ";
+        // line 335
+        echo "
+                ";
+        // line 337
+        echo "                ";
+        // line 338
+        echo "                    ";
+        // line 339
+        echo "                ";
+        // line 340
+        echo "            ";
+        // line 341
+        echo "        ";
+        // line 342
+        echo "    ";
+        // line 343
         echo "
 
 ";
         
-        $__internal_50956dee9b557b36bf20d6bfbbcd3352a7916b8f705f02a16910b32d462bb198->leave($__internal_50956dee9b557b36bf20d6bfbbcd3352a7916b8f705f02a16910b32d462bb198_prof);
+        $__internal_89397f3f5ea12b4a6489bc4ac50e43d4d75d876f0ef418b37fc48ccbc53da341->leave($__internal_89397f3f5ea12b4a6489bc4ac50e43d4d75d876f0ef418b37fc48ccbc53da341_prof);
 
         
-        $__internal_e38ce3c0e0c9ab27f03733342d494feefe544147081ac7a733a6e701efd2d446->leave($__internal_e38ce3c0e0c9ab27f03733342d494feefe544147081ac7a733a6e701efd2d446_prof);
+        $__internal_c9847e43887137044669b843b8b173cd8f8e0ced22327d7bbab52132abc931c1->leave($__internal_c9847e43887137044669b843b8b173cd8f8e0ced22327d7bbab52132abc931c1_prof);
 
     }
 
-    // line 324
+    // line 350
     public function block_post_javascripts($context, array $blocks = array())
     {
-        $__internal_210dd5d4dd516a42646a7ec45ab88bef76cdf14a78d321a6dd072eab62c1a714 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_210dd5d4dd516a42646a7ec45ab88bef76cdf14a78d321a6dd072eab62c1a714->enter($__internal_210dd5d4dd516a42646a7ec45ab88bef76cdf14a78d321a6dd072eab62c1a714_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "post_javascripts"));
+        $__internal_b1d028b188834df06d299d37309e1df4f1de7cefd531ce70c4b72ec2640cc74f = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_b1d028b188834df06d299d37309e1df4f1de7cefd531ce70c4b72ec2640cc74f->enter($__internal_b1d028b188834df06d299d37309e1df4f1de7cefd531ce70c4b72ec2640cc74f_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "post_javascripts"));
 
-        $__internal_afd31f2cde04ea585e6b4899c788474cbab6ac98de188faf0aad73b0ac013b7b = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_afd31f2cde04ea585e6b4899c788474cbab6ac98de188faf0aad73b0ac013b7b->enter($__internal_afd31f2cde04ea585e6b4899c788474cbab6ac98de188faf0aad73b0ac013b7b_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "post_javascripts"));
+        $__internal_173c9b7a485cf3e45535b2c9c107b51f0f8e6de0fb7d3e90dd8b0004e7089b83 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_173c9b7a485cf3e45535b2c9c107b51f0f8e6de0fb7d3e90dd8b0004e7089b83->enter($__internal_173c9b7a485cf3e45535b2c9c107b51f0f8e6de0fb7d3e90dd8b0004e7089b83_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "post_javascripts"));
 
-        // line 325
+        // line 351
         echo "    <!-- jQuery -->
     <script src=\"vendor/jquery/jquery.min.js\"></script>
 
@@ -501,15 +528,16 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
 
     <!-- Theme JavaScript -->
     <script src=\"";
-        // line 337
+        // line 363
         echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("js/creative.min.js"), "html", null, true);
         echo "\"></script>
+
 ";
         
-        $__internal_afd31f2cde04ea585e6b4899c788474cbab6ac98de188faf0aad73b0ac013b7b->leave($__internal_afd31f2cde04ea585e6b4899c788474cbab6ac98de188faf0aad73b0ac013b7b_prof);
+        $__internal_173c9b7a485cf3e45535b2c9c107b51f0f8e6de0fb7d3e90dd8b0004e7089b83->leave($__internal_173c9b7a485cf3e45535b2c9c107b51f0f8e6de0fb7d3e90dd8b0004e7089b83_prof);
 
         
-        $__internal_210dd5d4dd516a42646a7ec45ab88bef76cdf14a78d321a6dd072eab62c1a714->leave($__internal_210dd5d4dd516a42646a7ec45ab88bef76cdf14a78d321a6dd072eab62c1a714_prof);
+        $__internal_b1d028b188834df06d299d37309e1df4f1de7cefd531ce70c4b72ec2640cc74f->leave($__internal_b1d028b188834df06d299d37309e1df4f1de7cefd531ce70c4b72ec2640cc74f_prof);
 
     }
 
@@ -525,7 +553,7 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
 
     public function getDebugInfo()
     {
-        return array (  505 => 337,  491 => 325,  482 => 324,  470 => 317,  468 => 316,  466 => 315,  464 => 314,  462 => 313,  460 => 312,  458 => 311,  455 => 309,  453 => 308,  451 => 307,  449 => 306,  447 => 305,  445 => 304,  443 => 303,  441 => 302,  439 => 301,  437 => 300,  435 => 299,  433 => 298,  430 => 296,  428 => 295,  426 => 294,  424 => 293,  422 => 292,  420 => 291,  418 => 290,  416 => 289,  414 => 288,  412 => 287,  410 => 286,  408 => 285,  406 => 284,  404 => 283,  402 => 282,  400 => 281,  398 => 280,  396 => 279,  394 => 278,  392 => 277,  390 => 276,  388 => 275,  386 => 274,  303 => 192,  292 => 182,  282 => 173,  191 => 83,  175 => 69,  143 => 39,  134 => 38,  115 => 27,  106 => 26,  94 => 22,  90 => 21,  71 => 6,  62 => 5,  44 => 3,  11 => 1,);
+        return array (  532 => 363,  518 => 351,  509 => 350,  497 => 343,  495 => 342,  493 => 341,  491 => 340,  489 => 339,  487 => 338,  485 => 337,  482 => 335,  480 => 334,  478 => 333,  476 => 332,  474 => 331,  472 => 330,  470 => 329,  468 => 328,  466 => 327,  464 => 326,  462 => 325,  460 => 324,  457 => 322,  455 => 321,  453 => 320,  451 => 319,  449 => 318,  447 => 317,  445 => 316,  443 => 315,  441 => 314,  439 => 313,  437 => 312,  435 => 311,  433 => 310,  431 => 309,  429 => 308,  427 => 307,  425 => 306,  423 => 305,  421 => 304,  419 => 303,  417 => 302,  415 => 301,  413 => 300,  315 => 203,  302 => 191,  290 => 180,  197 => 88,  191 => 83,  175 => 69,  143 => 39,  134 => 38,  115 => 27,  106 => 26,  94 => 22,  90 => 21,  71 => 6,  62 => 5,  44 => 3,  11 => 1,);
     }
 
     /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
@@ -623,6 +651,9 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                 <h2>Tired of the Snoring?</h2>
                 <h5>Solutions for a better Quality of Life</h5>
                 <h2>Call us today<br><a class=\"phone phone-white\" href=\"tel:817-431-6764\"><i class=\"fa fa-phone sr-icons\"></i> 817-431-6764</a></h2>
+
+                {#<iframe src=\"https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fbluestonedentaltx%2F&width=63&layout=button&action=like&size=large&show_faces=true&share=false&height=65&appId\" width=\"63\" height=\"65\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"></iframe>#}
+
             </div>
             <a style=\"margin-top:40px;\" href=\"#sleep\" class=\"btn btn-primary btn-xl page-scroll\">Find Out More about Sleep Apnea</a>
         </div>
@@ -636,24 +667,25 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                     <h1 class=\"section-heading\"><strong>Your Problem</strong></h1>
                     <hr class=\"light\">
 
+                    <div class=\"text-left\">
 
-                    <p>At least 40 million Americans suffer from chronic, long term sleep disorders each year.
-                       The majority of these disorders can result in sleep deprivation which interferes with work,
-                       driving, and school activites.
-                    </p>
+                        <p>At least 40 million Americans suffer from chronic, long term sleep disorders each year.
+                           The majority of these disorders can result in sleep deprivation which interferes with work,
+                           driving, and school activites.
+                        </p>
 
-                    <h3 class=\"section-heading\">Signs of Sleep Apnea include</h3>
-                    <hr class=\"light\">
-                    <ul class=\"text-left\">
-                        <li>Loud snoring that may be associated with breathing pauses or gasping for breath</li>
-                        <li>Excessive sleepiness when awake or unintended episodes of falling asleep</li>
-                        <li>Continuing to feel tired or fatiuged no matter how long you sleep</li>
-                    </ul>
-                    <p>Untreated sleep disorders are directly linked to many chronic diseases, including obesity,
-                       hypertension, diabetes, impotence, arrhythmia, and stroke.
-                    </p>
+                        <h3 class=\"section-heading\">Signs of Sleep Apnea include</h3>
+                        <hr class=\"light\">
+                        <ul class=\"text-left\">
+                            <li>Loud snoring that may be associated with breathing pauses or gasping for breath</li>
+                            <li>Excessive sleepiness when awake or unintended episodes of falling asleep</li>
+                            <li>Continuing to feel tired or fatiuged no matter how long you sleep</li>
+                        </ul>
+                        <p>Untreated sleep disorders are directly linked to many chronic diseases, including obesity,
+                           hypertension, diabetes, impotence, arrhythmia, and stroke.
+                        </p>
 
-
+                    </div>
                     <a href=\"#selfcheck\" class=\"page-scroll btn btn-default btn-xl sr-button\" style=\"margin-top:40px;\">Take self check</a>
                 </div>
             </div>
@@ -666,23 +698,26 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
             <div class=\"row\">
                 <div class=\"col-lg-8 col-lg-offset-2 text-center\">
                     <h1 class=\"section-heading\"><strong>Quick Self Check</strong></h1>
-                    <h2 class=\"section-heading\">Are you struggling to Breathe when you are sleeping?</h2>
-                    <hr class=\"light\">
+
+                    <div class=\"text-left\">
+                        <h2 class=\"section-heading\">Are you struggling to Breathe when you are sleeping?</h2>
+                        <hr class=\"light\">
 
 
-                    <h3 class=\"section-heading\">Even if you don't THINK you have a problem, take this quick self check</h3>
+                        <h3 class=\"section-heading\">Even if you don't THINK you have a problem, take this quick self check</h3>
 
-                    <ul class=\"text-left\">
-                        <li>Do you SNORE?</li>
-                        <li>Are you TIRED during the day?</li>
-                        <li>Has anyone seen you CHOKING or GASPING when you sleep?</li>
-                        <li>Have you been told you have HIGH BLOOD PRESSURE?</li>
-                        <li>Do you have ACID REFLUX?</li>
-                        <li>Do you have DIABETES</li>
-                    </ul>
+                        <ul class=\"text-left\">
+                            <li>Do you SNORE?</li>
+                            <li>Are you TIRED during the day?</li>
+                            <li>Has anyone seen you CHOKING or GASPING when you sleep?</li>
+                            <li>Have you been told you have HIGH BLOOD PRESSURE?</li>
+                            <li>Do you have ACID REFLUX?</li>
+                            <li>Do you have DIABETES</li>
+                        </ul>
 
-                    <p>If you answered YES to more than TWO of the questions give us a call to inquire about home sleep testing.
-                    </p>
+                        <p>If you answered YES to more than TWO of the questions give us a call to inquire about home sleep testing.
+                        </p>
+                        </div>
                     <h2>Call us today<br><a class=\"phone phone-black\" href=\"tel:817-431-6764\"><i class=\"fa fa-phone sr-icons\"></i> 817-431-6764</a></h2>
                     <a href=\"#services\" class=\"page-scroll btn btn-primary btn-xl sr-button\" style=\"margin-top:40px;\">Check out our Services</a>
                 </div>
@@ -711,29 +746,36 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                     <div class=\"service-box\">
                         {#<i class=\"fa fa-4x fa-diamond tesxt-primary sr-icons\"></i>#}
                         <h3>CPAP</h3>
+                        <div class=\"text-left\">
                         <p>Continuous positive airway pressure therapy (CPAP ) uses a machine to help a person who has
                             obstructive sleep apnea (OSA) breathe more easily during sleep. A CPAP machine increases
                             air pressure in your throat so that your airway doesn't collapse when you breathe in.</p>
+                            </div>
                     </div>
                 </div>
                 <div class=\"col-lg-4 col-md-6 text-center\">
                     <div class=\"service-box\">
                         {#<i class=\"fa fa-4x fa-paper-plane tsext-primary sr-icons\"></i>#}
                         <h3>Surgery</h3>
+                        <div class=\"text-left\">
                         <p>It involves removing and repositioning excess tissue in the throat to make the airway wider.
                             The surgeon can trim down your soft palate and uvula, remove your tonsils, and reposition
                             some of the muscles of the soft palate. UPPP and other soft palate procedures are the most
                             common type of surgery for sleep apne</p>
+                            </div>
                     </div>
                 </div>
                 <div class=\"col-lg-4 col-md-6 text-center\">
                     <div class=\"service-box\">
                         {#<i class=\"fa fa-4x fa-newspaper-o tsext-primary sr-icons\"></i>#}
                         <h3>Oral Appliance Therapy</h3>
+                        <div class=\"text-left\">
                         <p >Also called Jaw Advancing Device (JAD) or Mandibular Advancement Device (MAD), these
                             sleep apnea mouth pieces are custom made by dentists using a plastic-like mold to form
                             to the specific shape of the patients teeth and mouth. Not only do they work against sleep
                             apnea, they are also effective to stop snoring.</p>
+                            </div>
+
                     </div>
                 </div>
 
@@ -749,18 +791,28 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
         <div class=\"container\">
             <div class=\"row\">
                 <div class=\"col-lg-8 col-lg-offset-2 text-center\">
+
+                    <h2 class=\"section-heading\">Contact Us</h2>
+                    <hr class=\"dark\">
+
                     <h1 class=\"section-heading\">We're here for you!</h1>
                     <h2><strong>North Texas Sleep Solutions</strong><br>Dr. Rebecca Lauck</h2>
                     <hr class=\"dark\">
                     <h4>1675 Keller Parkway<br>Suite 100<br>Keller, Texas 76248</h4>
 
-                    <div class=\"col-lg-5 col-lg-offset-1 text-center\">
+                    <div class=\"col-lg-4 csol-lg-offset-1 text-center\">
                         <i class=\"fa fa-3x  fa-phone sr-icons\"></i>
                         <h4 style=\"margin-top:6px;\"><a style=\"color:#333;\" class=\"phone\" href=\"tel:817-431-6764\"> 817-431-6764</a></h4>
                     </div>
-                    <div class=\"col-lg-5 text-center\">
+                    <div class=\"col-lg-4 text-center\">
                         <i class=\"fa fa-3x fa-envelope-o sr-icons\"></i>
                         <h4 style=\"margin-top:6px;\"><a style=\"color:#333;\" class=\"phone\" href=\"mailto:ntxsleepsolutions@gmail.com\">ntxsleepsolutions@gmail.com</a></h4>
+                    </div>
+                    <div class=\"col-lg-4 text-center\">
+                        <a  class=\"phone\" href=\"https://www.facebook.com/bluestonedentaltx/\">
+                            <i class=\"fa fa-3x fa-facebook sr-icons\" style=\"color:#3B5998;\"></i>
+                            <h4 style=\"margin-top:6px; color:#333;\">Connect with Us</h4>
+                        </a>
                     </div>
 
                     <div class=\"col-lg-12 well\" style=\"height: 300px; background-color: rgba(22, 102, 161, 0.7);\">
@@ -768,7 +820,7 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                             width=\"100%\" height=\"100%\" frameborder=\"0\" style=\"border:0\"></iframe>
                     </div>
 
-                    <a style=\"margin-top:40px;\" href=\"#more\" class=\"page-scroll btn btn-primary btn-xl sr-button\">More Information</a>
+                    <a style=\"margin-top:40px;\" href=\"#about\" class=\"page-scroll btn btn-primary btn-xl sr-button\">About Us</a>
                 </div>
             </div>
         </div>
@@ -782,9 +834,10 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                     <hr class=\"light\">
                     <h2 class=\"section-heading\">Meet Dr. Rebecca Lauck</h2>
 
-                    <img src=\"img/portfolio/lauck.jpg\" class=\"img-responsive about-us\" alt=\"Responsive image\">
+                    <img src=\"img/portfolio/lauck.jpg\" class=\"img-responsive img-round-50\" alt=\"Responsive image\">
 
                     <hr class=\"light\">
+                    <div class=\"text-left\">
                     <p>After earning her Doctorate in Dental Surgery at Baylor College of Dentistry in Dallas, Dr. Lauck
                        has completed over 2,500 hours of continued education and since 2001 has focused her studies on
                         TMJ and Sleep Apnea treatments.
@@ -796,6 +849,7 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                         Her practice, North Texas Sleep Solutions, is dedicated to treating patients with Obstructive
                         Sleep Apnea and snoring.
                     </p>
+                        </div>
                 </div>
                 <div class=\"col-lg-5 col-lg-offset-1 text-center\">
                     <i class=\"fa fa-3x  fa-phone sr-icons\"></i>
@@ -875,6 +929,7 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
 
     <!-- Theme JavaScript -->
     <script src=\"{{ asset('js/creative.min.js') }}\"></script>
+
 {% endblock %}", "default/index.html.twig", "/home/david/Code/bluestone/app/Resources/views/default/index.html.twig");
     }
 }
