@@ -25,47 +25,47 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
 
     protected function doDisplay(array $context, array $blocks = array())
     {
-        $__internal_ba988c9fe606793624fcc270fd19b8839dec8ae95ec711371059f65e41db0d37 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_ba988c9fe606793624fcc270fd19b8839dec8ae95ec711371059f65e41db0d37->enter($__internal_ba988c9fe606793624fcc270fd19b8839dec8ae95ec711371059f65e41db0d37_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "default/index.html.twig"));
+        $__internal_0169387882a09d558e1d5956f1eaa98a153a915b67fdf17451f3718d56450595 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_0169387882a09d558e1d5956f1eaa98a153a915b67fdf17451f3718d56450595->enter($__internal_0169387882a09d558e1d5956f1eaa98a153a915b67fdf17451f3718d56450595_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "default/index.html.twig"));
 
-        $__internal_243619cb22740c7e3e9e89c0e91225531a1142b717801a7ef85100c3f3bbed38 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_243619cb22740c7e3e9e89c0e91225531a1142b717801a7ef85100c3f3bbed38->enter($__internal_243619cb22740c7e3e9e89c0e91225531a1142b717801a7ef85100c3f3bbed38_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "default/index.html.twig"));
+        $__internal_49e07afb8d14ef8d38d1f249f41673b2232f619b84a909781acc3e417e90e409 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_49e07afb8d14ef8d38d1f249f41673b2232f619b84a909781acc3e417e90e409->enter($__internal_49e07afb8d14ef8d38d1f249f41673b2232f619b84a909781acc3e417e90e409_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "default/index.html.twig"));
 
         $this->parent->display($context, array_merge($this->blocks, $blocks));
         
-        $__internal_ba988c9fe606793624fcc270fd19b8839dec8ae95ec711371059f65e41db0d37->leave($__internal_ba988c9fe606793624fcc270fd19b8839dec8ae95ec711371059f65e41db0d37_prof);
+        $__internal_0169387882a09d558e1d5956f1eaa98a153a915b67fdf17451f3718d56450595->leave($__internal_0169387882a09d558e1d5956f1eaa98a153a915b67fdf17451f3718d56450595_prof);
 
         
-        $__internal_243619cb22740c7e3e9e89c0e91225531a1142b717801a7ef85100c3f3bbed38->leave($__internal_243619cb22740c7e3e9e89c0e91225531a1142b717801a7ef85100c3f3bbed38_prof);
+        $__internal_49e07afb8d14ef8d38d1f249f41673b2232f619b84a909781acc3e417e90e409->leave($__internal_49e07afb8d14ef8d38d1f249f41673b2232f619b84a909781acc3e417e90e409_prof);
 
     }
 
     // line 3
     public function block_title($context, array $blocks = array())
     {
-        $__internal_33ce36199ca09e167965b584065e5faf323458f338b75868aa82a299aab36abd = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_33ce36199ca09e167965b584065e5faf323458f338b75868aa82a299aab36abd->enter($__internal_33ce36199ca09e167965b584065e5faf323458f338b75868aa82a299aab36abd_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "title"));
+        $__internal_5ae59f8d6a2cafef9d7d53d43c72f21f1d1dca3eb95cdfbc9e9a286720143813 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_5ae59f8d6a2cafef9d7d53d43c72f21f1d1dca3eb95cdfbc9e9a286720143813->enter($__internal_5ae59f8d6a2cafef9d7d53d43c72f21f1d1dca3eb95cdfbc9e9a286720143813_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "title"));
 
-        $__internal_191f46111c61f265591ee3555196144146fb52c6ba2f791561f9ef98887fc686 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_191f46111c61f265591ee3555196144146fb52c6ba2f791561f9ef98887fc686->enter($__internal_191f46111c61f265591ee3555196144146fb52c6ba2f791561f9ef98887fc686_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "title"));
+        $__internal_8e1e3d7f7612e156f751d530cb0473130200dfd41f985b91ef120210f081ddb4 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_8e1e3d7f7612e156f751d530cb0473130200dfd41f985b91ef120210f081ddb4->enter($__internal_8e1e3d7f7612e156f751d530cb0473130200dfd41f985b91ef120210f081ddb4_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "title"));
 
         echo "NTSS";
         
-        $__internal_191f46111c61f265591ee3555196144146fb52c6ba2f791561f9ef98887fc686->leave($__internal_191f46111c61f265591ee3555196144146fb52c6ba2f791561f9ef98887fc686_prof);
+        $__internal_8e1e3d7f7612e156f751d530cb0473130200dfd41f985b91ef120210f081ddb4->leave($__internal_8e1e3d7f7612e156f751d530cb0473130200dfd41f985b91ef120210f081ddb4_prof);
 
         
-        $__internal_33ce36199ca09e167965b584065e5faf323458f338b75868aa82a299aab36abd->leave($__internal_33ce36199ca09e167965b584065e5faf323458f338b75868aa82a299aab36abd_prof);
+        $__internal_5ae59f8d6a2cafef9d7d53d43c72f21f1d1dca3eb95cdfbc9e9a286720143813->leave($__internal_5ae59f8d6a2cafef9d7d53d43c72f21f1d1dca3eb95cdfbc9e9a286720143813_prof);
 
     }
 
     // line 5
     public function block_stylesheets($context, array $blocks = array())
     {
-        $__internal_e095ac145c6ab6456263cb7e210714eb55c000267618d1faee2663568fa838bd = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_e095ac145c6ab6456263cb7e210714eb55c000267618d1faee2663568fa838bd->enter($__internal_e095ac145c6ab6456263cb7e210714eb55c000267618d1faee2663568fa838bd_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "stylesheets"));
+        $__internal_8cd4bea18f0855207fd910c4afdc40a07c84eff60b1cecb0eb8ee90c3c31d798 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_8cd4bea18f0855207fd910c4afdc40a07c84eff60b1cecb0eb8ee90c3c31d798->enter($__internal_8cd4bea18f0855207fd910c4afdc40a07c84eff60b1cecb0eb8ee90c3c31d798_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "stylesheets"));
 
-        $__internal_58a0edfc1b572ff06b0cd71df34386c5f6442b80741638a874bd3b0c997a50a0 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_58a0edfc1b572ff06b0cd71df34386c5f6442b80741638a874bd3b0c997a50a0->enter($__internal_58a0edfc1b572ff06b0cd71df34386c5f6442b80741638a874bd3b0c997a50a0_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "stylesheets"));
+        $__internal_504983f88b4052d376b9801da0c69aa9530e553b9eaf7833bb752374ad72448c = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_504983f88b4052d376b9801da0c69aa9530e553b9eaf7833bb752374ad72448c->enter($__internal_504983f88b4052d376b9801da0c69aa9530e553b9eaf7833bb752374ad72448c_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "stylesheets"));
 
         // line 6
         echo "    ";
@@ -76,8 +76,10 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
 
     <!-- Custom Fonts -->
     <link href=\"vendor/font-awesome/css/font-awesome.min.css\" rel=\"stylesheet\" type=\"text/css\">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800'
+          rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic'
+          rel='stylesheet' type='text/css'>
 
     <!-- Plugin CSS -->
     <link href=\"vendor/magnific-popup/magnific-popup.css\" rel=\"stylesheet\">
@@ -86,32 +88,32 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
     <link href=\"css/creative.min.css\" rel=\"stylesheet\">
 
     <link rel=\"stylesheet\" href=\"";
-        // line 21
+        // line 23
         echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("css/creative.css"), "html", null, true);
-        echo "\" />
+        echo "\"/>
     <link rel=\"stylesheet\" href=\"";
-        // line 22
+        // line 24
         echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("css/custom.css"), "html", null, true);
-        echo "\" />
+        echo "\"/>
 ";
         
-        $__internal_58a0edfc1b572ff06b0cd71df34386c5f6442b80741638a874bd3b0c997a50a0->leave($__internal_58a0edfc1b572ff06b0cd71df34386c5f6442b80741638a874bd3b0c997a50a0_prof);
+        $__internal_504983f88b4052d376b9801da0c69aa9530e553b9eaf7833bb752374ad72448c->leave($__internal_504983f88b4052d376b9801da0c69aa9530e553b9eaf7833bb752374ad72448c_prof);
 
         
-        $__internal_e095ac145c6ab6456263cb7e210714eb55c000267618d1faee2663568fa838bd->leave($__internal_e095ac145c6ab6456263cb7e210714eb55c000267618d1faee2663568fa838bd_prof);
+        $__internal_8cd4bea18f0855207fd910c4afdc40a07c84eff60b1cecb0eb8ee90c3c31d798->leave($__internal_8cd4bea18f0855207fd910c4afdc40a07c84eff60b1cecb0eb8ee90c3c31d798_prof);
 
     }
 
-    // line 26
+    // line 28
     public function block_pre_javascripts($context, array $blocks = array())
     {
-        $__internal_13ad9b87ea01a9790e106b096ece05d7a5ebd4fbf4ccb403bef66eda24daae84 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_13ad9b87ea01a9790e106b096ece05d7a5ebd4fbf4ccb403bef66eda24daae84->enter($__internal_13ad9b87ea01a9790e106b096ece05d7a5ebd4fbf4ccb403bef66eda24daae84_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "pre_javascripts"));
+        $__internal_13a0ef2bb3614c3f6bf1d2cb075f25692a93895706074a03207a81da87320c38 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_13a0ef2bb3614c3f6bf1d2cb075f25692a93895706074a03207a81da87320c38->enter($__internal_13a0ef2bb3614c3f6bf1d2cb075f25692a93895706074a03207a81da87320c38_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "pre_javascripts"));
 
-        $__internal_75267ed9adee849c984fb7fedf2347f240d7c04abada383790adef8147614bf1 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_75267ed9adee849c984fb7fedf2347f240d7c04abada383790adef8147614bf1->enter($__internal_75267ed9adee849c984fb7fedf2347f240d7c04abada383790adef8147614bf1_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "pre_javascripts"));
+        $__internal_b96ba60cc41f37c5fd787f12d312703c988a5fa027c622fbc8f87347670e9fb1 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_b96ba60cc41f37c5fd787f12d312703c988a5fa027c622fbc8f87347670e9fb1->enter($__internal_b96ba60cc41f37c5fd787f12d312703c988a5fa027c622fbc8f87347670e9fb1_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "pre_javascripts"));
 
-        // line 27
+        // line 29
         echo "    ";
         $this->displayParentBlock("pre_javascripts", $context, $blocks);
         echo "
@@ -123,32 +125,35 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
     <![endif]-->
 ";
         
-        $__internal_75267ed9adee849c984fb7fedf2347f240d7c04abada383790adef8147614bf1->leave($__internal_75267ed9adee849c984fb7fedf2347f240d7c04abada383790adef8147614bf1_prof);
+        $__internal_b96ba60cc41f37c5fd787f12d312703c988a5fa027c622fbc8f87347670e9fb1->leave($__internal_b96ba60cc41f37c5fd787f12d312703c988a5fa027c622fbc8f87347670e9fb1_prof);
 
         
-        $__internal_13ad9b87ea01a9790e106b096ece05d7a5ebd4fbf4ccb403bef66eda24daae84->leave($__internal_13ad9b87ea01a9790e106b096ece05d7a5ebd4fbf4ccb403bef66eda24daae84_prof);
+        $__internal_13a0ef2bb3614c3f6bf1d2cb075f25692a93895706074a03207a81da87320c38->leave($__internal_13a0ef2bb3614c3f6bf1d2cb075f25692a93895706074a03207a81da87320c38_prof);
 
     }
 
-    // line 38
+    // line 40
     public function block_body($context, array $blocks = array())
     {
-        $__internal_c9847e43887137044669b843b8b173cd8f8e0ced22327d7bbab52132abc931c1 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_c9847e43887137044669b843b8b173cd8f8e0ced22327d7bbab52132abc931c1->enter($__internal_c9847e43887137044669b843b8b173cd8f8e0ced22327d7bbab52132abc931c1_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
+        $__internal_a4d90cf87745ff792ffce7e88241b3a3801283be4655048217a5a7851dfbefcc = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_a4d90cf87745ff792ffce7e88241b3a3801283be4655048217a5a7851dfbefcc->enter($__internal_a4d90cf87745ff792ffce7e88241b3a3801283be4655048217a5a7851dfbefcc_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
 
-        $__internal_89397f3f5ea12b4a6489bc4ac50e43d4d75d876f0ef418b37fc48ccbc53da341 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_89397f3f5ea12b4a6489bc4ac50e43d4d75d876f0ef418b37fc48ccbc53da341->enter($__internal_89397f3f5ea12b4a6489bc4ac50e43d4d75d876f0ef418b37fc48ccbc53da341_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
+        $__internal_0fcb94c4382440e8eb0fe9cbdf86b580671b0bcf0ce86a912f99450066e763fc = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_0fcb94c4382440e8eb0fe9cbdf86b580671b0bcf0ce86a912f99450066e763fc->enter($__internal_0fcb94c4382440e8eb0fe9cbdf86b580671b0bcf0ce86a912f99450066e763fc_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
 
-        // line 39
+        // line 41
         echo "    <nav id=\"mainNav\" class=\"navbar navbar-default navbar-fixed-top\">
         <div class=\"container-fluid\">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class=\"navbar-header\">
-                <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">
+                <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\"
+                        data-target=\"#bs-example-navbar-collapse-1\">
                     <span class=\"sr-only\">Toggle navigation</span> Menu <i class=\"fa fa-bars\"></i>
                 </button>
-                <a class=\"navbar-brand page-scroll hidden-md hidden-lg visible-xs-* visible-sm-*\" href=\"#page-top\">NTSS</a>
-                <a class=\"navbar-brand page-scroll hidden-xs hidden-sm visible-md-* visible-lg-*\" href=\"#page-top\">North Texas Sleep Solutions</a>
+                <a class=\"navbar-brand page-scroll hidden-md hidden-lg visible-xs-* visible-sm-*\"
+                   href=\"#page-top\">NTSS</a>
+                <a class=\"navbar-brand page-scroll hidden-xs hidden-sm visible-md-* visible-lg-*\" href=\"#page-top\">North
+                    Texas Sleep Solutions</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -160,6 +165,7 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                     <li>
                         <a class=\"page-scroll\" href=\"#selfcheck\">Check yourself</a>
                     </li>
+                    >
                     <li>
                         <a class=\"page-scroll\" href=\"#services\">Services</a>
                     </li>
@@ -171,7 +177,7 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                     </li>
                     <li>
                         <a class=\"next-page\" href=\"";
-        // line 69
+        // line 75
         echo $this->env->getExtension('Symfony\Bridge\Twig\Extension\RoutingExtension')->getPath("more");
         echo "\">More Info</a>
                     </li>
@@ -187,16 +193,18 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
             <div class=\"header-content-inner header-custom\">
                 <h1 id=\"homeHeading\">Welcome to<br>North Texas Sleep Solutions</h1>
                 ";
-        // line 83
+        // line 89
         echo "                <h2>Tired of the Snoring?</h2>
                 <h5>Solutions for a better Quality of Life</h5>
-                <h2>Call us today<br><a class=\"phone phone-white\" href=\"tel:817-431-6764\"><i class=\"fa fa-phone sr-icons\"></i> 817-431-6764</a></h2>
+                <h2>Call us today<br><a class=\"phone phone-white\" href=\"tel:817-431-6764\"><i
+                                class=\"fa fa-phone sr-icons\"></i> 817-431-6764</a></h2>
 
                 ";
-        // line 88
+        // line 95
         echo "
             </div>
-            <a style=\"margin-top:40px;\" href=\"#sleep\" class=\"btn btn-primary btn-xl page-scroll\">Find Out More about Sleep Apnea</a>
+            <a style=\"margin-top:40px;\" href=\"#sleep\" class=\"btn btn-primary btn-xl page-scroll\">Find Out More about
+                Sleep Apnea</a>
         </div>
     </header>
 
@@ -211,8 +219,8 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                     <div class=\"text-left\">
 
                         <p>At least 40 million Americans suffer from chronic, long term sleep disorders each year.
-                           The majority of these disorders can result in sleep deprivation which interferes with work,
-                           driving, and school activites.
+                            The majority of these disorders can result in sleep deprivation which interferes with work,
+                            driving, and school activites.
                         </p>
 
                         <h3 class=\"section-heading\">Signs of Sleep Apnea include</h3>
@@ -220,19 +228,19 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                         <ul class=\"text-left\">
                             <li>Loud snoring that may be associated with breathing pauses or gasping for breath</li>
                             <li>Excessive sleepiness when awake or unintended episodes of falling asleep</li>
-                            <li>Continuing to feel tired or fatiuged no matter how long you sleep</li>
+                            <li>Continuing to feel tired or fatigued no matter how long you sleep</li>
                         </ul>
                         <p>Untreated sleep disorders are directly linked to many chronic diseases, including obesity,
-                           hypertension, diabetes, impotence, arrhythmia, and stroke.
+                            hypertension, diabetes, impotence, arrhythmia, and stroke.
                         </p>
 
                     </div>
-                    <a href=\"#selfcheck\" class=\"page-scroll btn btn-default btn-xl sr-button\" style=\"margin-top:40px;\">Take self check</a>
+                    <a href=\"#selfcheck\" class=\"page-scroll btn btn-default btn-xl sr-button\" style=\"margin-top:40px;\">Take
+                        self check</a>
                 </div>
             </div>
         </div>
     </section>
-
 
     <section id=\"selfcheck\">
         <div class=\"container\">
@@ -245,7 +253,8 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                         <hr class=\"light\">
 
 
-                        <h3 class=\"section-heading\">Even if you don't THINK you have a problem, take this quick self check</h3>
+                        <h3 class=\"section-heading\">Even if you don't THINK you have a problem, take this quick self
+                            check</h3>
 
                         <ul class=\"text-left\">
                             <li>Do you SNORE?</li>
@@ -256,11 +265,167 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                             <li>Do you have DIABETES</li>
                         </ul>
 
-                        <p>If you answered YES to more than TWO of the questions give us a call to inquire about home sleep testing.
+                        <p>If you answered YES to more than TWO of the questions give us a call to inquire about home
+                            sleep testing.
                         </p>
+
+                        <br><br>
+
+                        <div>
+                            <table class=\"table\">
+                                <caption>
+                                    Epworth Sleepiness Scale
+                                    <br><br>
+                                    How likely are you to doze off or fall asleep in the following situations,
+                                    in contrast to feeling just tired? This refers to your usual way of life in recent
+                                    times. Even if you have not done some of these things recently try to work out how
+                                    they would have affected you. Use the following scale to choose the most appropriate
+                                    number for each situation:
+                                </caption>
+                                <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>Situation</th>
+                                    <th>Chance of dozing</th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                <tr>
+                                    <th scope=\"row\">1</th>
+                                    <td>Sitting and reading</td>
+                                    <td>
+                                        <div class=\"form-group\">
+                                            <select class=\"form-control epworth\">
+                                                <option value=\"0\">No chance of dozing</option>
+                                                <option value=\"1\">Slight chance of dozing</option>
+                                                <option value=\"2\">Moderate chance of dozing</option>
+                                                <option value=\"3\">High chance of dozing</option>
+                                            </select>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th scope=\"row\">2</th>
+                                    <td>Watching TV</td>
+                                    <td>
+                                        <div class=\"form-group\">
+                                            <select class=\"form-control epworth\">
+                                                <option value=\"0\">No chance of dozing</option>
+                                                <option value=\"1\">Slight chance of dozing</option>
+                                                <option value=\"2\">Moderate chance of dozing</option>
+                                                <option value=\"3\">High chance of dozing</option>
+                                            </select>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th scope=\"row\">3</th>
+                                    <td>Sitting inactive in a public place (e.g a theater or a meeting)</td>
+                                    <td>
+                                        <div class=\"form-group\">
+                                            <select class=\"form-control epworth\">
+                                                <option value=\"0\">No chance of dozing</option>
+                                                <option value=\"1\">Slight chance of dozing</option>
+                                                <option value=\"2\">Moderate chance of dozing</option>
+                                                <option value=\"3\">High chance of dozing</option>
+                                            </select>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th scope=\"row\">4</th>
+                                    <td>As a passenger in a car for an hour without a break</td>
+                                    <td>
+                                        <div class=\"form-group\">
+                                            <select class=\"form-control epworth\">
+                                                <option value=\"0\">No chance of dozing</option>
+                                                <option value=\"1\">Slight chance of dozing</option>
+                                                <option value=\"2\">Moderate chance of dozing</option>
+                                                <option value=\"3\">High chance of dozing</option>
+                                            </select>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th scope=\"row\">5</th>
+                                    <td>Lying down to rest in the afternoon when circumstances permit</td>
+                                    <td>
+                                        <div class=\"form-group\">
+                                            <select class=\"form-control epworth\">
+                                                <option value=\"0\">No chance of dozing</option>
+                                                <option value=\"1\">Slight chance of dozing</option>
+                                                <option value=\"2\">Moderate chance of dozing</option>
+                                                <option value=\"3\">High chance of dozing</option>
+                                            </select>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th scope=\"row\">6</th>
+                                    <td>Sitting and talking to someone</td>
+                                    <td>
+                                        <div class=\"form-group\">
+                                            <select class=\"form-control epworth\">
+                                                <option value=\"0\">No chance of dozing</option>
+                                                <option value=\"1\">Slight chance of dozing</option>
+                                                <option value=\"2\">Moderate chance of dozing</option>
+                                                <option value=\"3\">High chance of dozing</option>
+                                            </select>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th scope=\"row\">7</th>
+                                    <td>Sitting quietly after a lunch without alcohol</td>
+                                    <td>
+                                        <div class=\"form-group\">
+                                            <select class=\"form-control epworth\">
+                                                <option value=\"0\">No chance of dozing</option>
+                                                <option value=\"1\">Slight chance of dozing</option>
+                                                <option value=\"2\">Moderate chance of dozing</option>
+                                                <option value=\"3\">High chance of dozing</option>
+                                            </select>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th scope=\"row\">8</th>
+                                    <td>In a car, while stopped for a few minutes in traffic</td>
+                                    <td>
+                                        <div class=\"form-group\">
+                                            <select class=\"form-control epworth\">
+                                                <option value=\"0\">No chance of dozing</option>
+                                                <option value=\"1\">Slight chance of dozing</option>
+                                                <option value=\"2\">Moderate chance of dozing</option>
+                                                <option value=\"3\">High chance of dozing</option>
+                                            </select>
+                                        </div>
+                                    </td>
+                                </tr>
+                                </tbody>
+                            </table>
                         </div>
-                    <h2>Call us today<br><a class=\"phone phone-black\" href=\"tel:817-431-6764\"><i class=\"fa fa-phone sr-icons\"></i> 817-431-6764</a></h2>
-                    <a href=\"#services\" class=\"page-scroll btn btn-primary btn-xl sr-button\" style=\"margin-top:40px;\">Check out our Services</a>
+                    </div>
+                    <button onclick=\"BlueStoneApp.gradeEpworth()\" type=\"button\" class=\"btn btn-warning epworth-check\">
+                        Check your
+                        sleepiness score
+                    </button>
+                    <div id=\"epworth-success\" class=\"alert alert-success epworth-alert hide\" role=\"alert\">
+                        Congratulations, you are getting enough sleep!
+                    </div>
+                    <div id=\"epworth-warning\" class=\"alert alert-warning epworth-alert hide\" role=\"alert\">Your score is
+                        average
+                    </div>
+                    <div id=\"epworth-danger\" class=\"alert alert-danger  epworth-alert hide\" role=\"alert\">Seek the advice
+                        of a sleep specialist without
+                        delay
+                    </div>
+                    <br>
+                    <br>
+                    <h2>Call us today<br><a class=\"phone phone-black\" href=\"tel:817-431-6764\"><i
+                                    class=\"fa fa-phone sr-icons\"></i> 817-431-6764</a></h2>
+                    <a href=\"#services\" class=\"page-scroll btn btn-primary btn-xl sr-button\" style=\"margin-top:40px;\">Check
+                        out our Services</a>
                 </div>
             </div>
         </div>
@@ -273,8 +438,8 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                     <h2 class=\"section-heading\">Our Services</h2>
                     <hr class=\"light\">
                     <p>We have no bias towards a specific treatment.</p>
-                    <p>We guide you to the approriate treatment
-                       recommended by the <br> American Academy of Sleep Medicine and fits into your life style.
+                    <p>We guide you to the appropriate treatment
+                        recommended by the <br> American Academy of Sleep Medicine and fits into your life style.
                     </p>
                     <p>Our office works with the majority of medical insurances, including <strong>Medicare</strong>.
                     </p>
@@ -286,45 +451,52 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                 <div class=\"col-lg-4 col-md-6 text-center\">
                     <div class=\"service-box\">
                         ";
-        // line 180
+        // line 345
         echo "                        <h3>CPAP</h3>
                         <div class=\"text-left\">
-                        <p>Continuous positive airway pressure therapy (CPAP ) uses a machine to help a person who has
-                            obstructive sleep apnea (OSA) breathe more easily during sleep. A CPAP machine increases
-                            air pressure in your throat so that your airway doesn't collapse when you breathe in.</p>
-                            </div>
+                            <p>Continuous positive airway pressure therapy (CPAP ) uses a machine to help a person who
+                                has
+                                obstructive sleep apnea (OSA) breathe more easily during sleep. A CPAP machine increases
+                                air pressure in your throat so that your airway doesn't collapse when you breathe
+                                in.</p>
+                        </div>
                     </div>
                 </div>
                 <div class=\"col-lg-4 col-md-6 text-center\">
                     <div class=\"service-box\">
                         ";
-        // line 191
+        // line 358
         echo "                        <h3>Surgery</h3>
                         <div class=\"text-left\">
-                        <p>It involves removing and repositioning excess tissue in the throat to make the airway wider.
-                            The surgeon can trim down your soft palate and uvula, remove your tonsils, and reposition
-                            some of the muscles of the soft palate. UPPP and other soft palate procedures are the most
-                            common type of surgery for sleep apne</p>
-                            </div>
+                            <p>It involves removing and repositioning excess tissue in the throat to make the airway
+                                wider.
+                                The surgeon can trim down your soft palate and uvula, remove your tonsils, and
+                                reposition
+                                some of the muscles of the soft palate. UPPP and other soft palate procedures are the
+                                most
+                                common type of surgery for sleep apne</p>
+                        </div>
                     </div>
                 </div>
                 <div class=\"col-lg-4 col-md-6 text-center\">
                     <div class=\"service-box\">
                         ";
-        // line 203
+        // line 373
         echo "                        <h3>Oral Appliance Therapy</h3>
                         <div class=\"text-left\">
-                        <p >Also called Jaw Advancing Device (JAD) or Mandibular Advancement Device (MAD), these
-                            sleep apnea mouth pieces are custom made by dentists using a plastic-like mold to form
-                            to the specific shape of the patients teeth and mouth. Not only do they work against sleep
-                            apnea, they are also effective to stop snoring.</p>
-                            </div>
+                            <p>Also called Jaw Advancing Device (JAD) or Mandibular Advancement Device (MAD), these
+                                sleep apnea mouth pieces are custom made by dentists using a plastic-like mold to form
+                                to the specific shape of the patients teeth and mouth. Not only do they work against
+                                sleep
+                                apnea, they are also effective to stop snoring.</p>
+                        </div>
 
                     </div>
                 </div>
 
                 <div class=\"col-lg-8 col-lg-offset-2 text-center\">
-                    <a href=\"#contact\" class=\"page-scroll btn btn-default btn-xl sr-button\" style=\"margin-top:40px;\">Contact Us</a>
+                    <a href=\"#contact\" class=\"page-scroll btn btn-default btn-xl sr-button\" style=\"margin-top:40px;\">Contact
+                        Us</a>
                 </div>
             </div>
 
@@ -346,25 +518,29 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
 
                     <div class=\"col-lg-4 csol-lg-offset-1 text-center\">
                         <i class=\"fa fa-3x  fa-phone sr-icons\"></i>
-                        <h4 style=\"margin-top:6px;\"><a style=\"color:#333;\" class=\"phone\" href=\"tel:817-431-6764\"> 817-431-6764</a></h4>
+                        <h4 style=\"margin-top:6px;\"><a style=\"color:#333;\" class=\"phone\" href=\"tel:817-431-6764\">
+                                817-431-6764</a></h4>
                     </div>
                     <div class=\"col-lg-4 text-center\">
                         <i class=\"fa fa-3x fa-envelope-o sr-icons\"></i>
-                        <h4 style=\"margin-top:6px;\"><a style=\"color:#333;\" class=\"phone\" href=\"mailto:ntxsleepsolutions@gmail.com\">ntxsleepsolutions@gmail.com</a></h4>
+                        <h4 style=\"margin-top:6px;\"><a style=\"color:#333;\" class=\"phone\"
+                                                       href=\"mailto:ntxsleepsolutions@gmail.com\">ntxsleepsolutions@gmail.com</a>
+                        </h4>
                     </div>
                     <div class=\"col-lg-4 text-center\">
-                        <a  class=\"phone\" href=\"https://www.facebook.com/bluestonedentaltx/\">
+                        <a class=\"phone\" href=\"https://www.facebook.com/bluestonedentaltx/\">
                             <i class=\"fa fa-3x fa-facebook sr-icons\" style=\"color:#3B5998;\"></i>
                             <h4 style=\"margin-top:6px; color:#333;\">Connect with Us</h4>
                         </a>
                     </div>
 
                     <div class=\"col-lg-12 well\" style=\"height: 300px; background-color: rgba(22, 102, 161, 0.7);\">
-                    <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3348.6139696127607!2d-97.21530488424372!3d32.934795980924655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864dd6e645f479d5%3A0x3ac8250fcb25fdb8!2s1675+Keller+Pkwy+%23100%2C+Keller%2C+TX+76248!5e0!3m2!1sen!2sus!4v1483138439774\"
-                            width=\"100%\" height=\"100%\" frameborder=\"0\" style=\"border:0\"></iframe>
+                        <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3348.6139696127607!2d-97.21530488424372!3d32.934795980924655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864dd6e645f479d5%3A0x3ac8250fcb25fdb8!2s1675+Keller+Pkwy+%23100%2C+Keller%2C+TX+76248!5e0!3m2!1sen!2sus!4v1483138439774\"
+                                width=\"100%\" height=\"100%\" frameborder=\"0\" style=\"border:0\"></iframe>
                     </div>
 
-                    <a style=\"margin-top:40px;\" href=\"#about\" class=\"page-scroll btn btn-primary btn-xl sr-button\">About Us</a>
+                    <a style=\"margin-top:40px;\" href=\"#about\" class=\"page-scroll btn btn-primary btn-xl sr-button\">About
+                        Us</a>
                 </div>
             </div>
         </div>
@@ -382,139 +558,57 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
 
                     <hr class=\"light\">
                     <div class=\"text-left\">
-                    <p>After earning her Doctorate in Dental Surgery at Baylor College of Dentistry in Dallas, Dr. Lauck
-                       has completed over 2,500 hours of continued education and since 2001 has focused her studies on
-                        TMJ and Sleep Apnea treatments.
-                    </p>
-                    <p>She holds 2 diplomate degrees in Sleep Apnea Treatment, in addition to being a Medicare provider
-                        for Sleep Apnea.  She has experience in different appliance designs that fit every individual case.
-                    </p>
-                    <p>For your treatment, she uses only FDA approved appliances that are made in top labs in the country.
-                        Her practice, North Texas Sleep Solutions, is dedicated to treating patients with Obstructive
-                        Sleep Apnea and snoring.
-                    </p>
-                        </div>
+                        <p>After earning her Doctorate in Dental Surgery at Baylor College of Dentistry in Dallas, Dr.
+                            Lauck
+                            has completed over 2,500 hours of continued education and since 2001 has focused her studies
+                            on
+                            TMJ and Sleep Apnea treatments.
+                        </p>
+                        <p>She holds 2 diplomate degrees in Sleep Apnea Treatment, in addition to being a Medicare
+                            provider
+                            for Sleep Apnea. She has experience in different appliance designs that fit every individual
+                            case.
+                        </p>
+                        <p>For your treatment, she uses only FDA approved appliances that are made in top labs in the
+                            country.
+                            Her practice, North Texas Sleep Solutions, is dedicated to treating patients with
+                            Obstructive
+                            Sleep Apnea and snoring.
+                        </p>
+                    </div>
                 </div>
                 <div class=\"col-lg-5 col-lg-offset-1 text-center\">
                     <i class=\"fa fa-3x  fa-phone sr-icons\"></i>
-                    <h4 style=\"margin-top:6px;\"><a class=\"phone phone-white\" href=\"tel:817-431-6764\"> 817-431-6764</a></h4>
+                    <h4 style=\"margin-top:6px;\"><a class=\"phone phone-white\" href=\"tel:817-431-6764\"> 817-431-6764</a>
+                    </h4>
                 </div>
                 <div class=\"col-lg-5 text-center\">
                     <i class=\"fa fa-3x fa-envelope-o sr-icons\"></i>
-                    <h4 style=\"margin-top:6px;\"><a class=\"phone phone-white\" href=\"mailto:ntxsleepsolutions@gmail.com\">ntxsleepsolutions@gmail.com</a></h4>
+                    <h4 style=\"margin-top:6px;\"><a class=\"phone phone-white\" href=\"mailto:ntxsleepsolutions@gmail.com\">ntxsleepsolutions@gmail.com</a>
+                    </h4>
                 </div>
             </div>
         </div>
     </section>
-
-
-    ";
-        // line 300
-        echo "    ";
-        // line 301
-        echo "        ";
-        // line 302
-        echo "            ";
-        // line 303
-        echo "                ";
-        // line 304
-        echo "                    ";
-        // line 305
-        echo "                    ";
-        // line 306
-        echo "                ";
-        // line 307
-        echo "                ";
-        // line 308
-        echo "                    ";
-        // line 309
-        echo "                    ";
-        // line 310
-        echo "                    ";
-        // line 311
-        echo "                    ";
-        // line 312
-        echo "                    ";
-        // line 313
-        echo "                    ";
-        // line 314
-        echo "                    ";
-        // line 315
-        echo "                ";
-        // line 316
-        echo "                ";
-        // line 317
-        echo "                    ";
-        // line 318
-        echo "                ";
-        // line 319
-        echo "            ";
-        // line 320
-        echo "        ";
-        // line 321
-        echo "    ";
-        // line 322
-        echo "
-    ";
-        // line 324
-        echo "    ";
-        // line 325
-        echo "        ";
-        // line 326
-        echo "            ";
-        // line 327
-        echo "                ";
-        // line 328
-        echo "                    ";
-        // line 329
-        echo "                    ";
-        // line 330
-        echo "                ";
-        // line 331
-        echo "                ";
-        // line 332
-        echo "                    ";
-        // line 333
-        echo "                    ";
-        // line 334
-        echo "                    ";
-        // line 335
-        echo "
-                ";
-        // line 337
-        echo "                ";
-        // line 338
-        echo "                    ";
-        // line 339
-        echo "                ";
-        // line 340
-        echo "            ";
-        // line 341
-        echo "        ";
-        // line 342
-        echo "    ";
-        // line 343
-        echo "
-
 ";
         
-        $__internal_89397f3f5ea12b4a6489bc4ac50e43d4d75d876f0ef418b37fc48ccbc53da341->leave($__internal_89397f3f5ea12b4a6489bc4ac50e43d4d75d876f0ef418b37fc48ccbc53da341_prof);
+        $__internal_0fcb94c4382440e8eb0fe9cbdf86b580671b0bcf0ce86a912f99450066e763fc->leave($__internal_0fcb94c4382440e8eb0fe9cbdf86b580671b0bcf0ce86a912f99450066e763fc_prof);
 
         
-        $__internal_c9847e43887137044669b843b8b173cd8f8e0ced22327d7bbab52132abc931c1->leave($__internal_c9847e43887137044669b843b8b173cd8f8e0ced22327d7bbab52132abc931c1_prof);
+        $__internal_a4d90cf87745ff792ffce7e88241b3a3801283be4655048217a5a7851dfbefcc->leave($__internal_a4d90cf87745ff792ffce7e88241b3a3801283be4655048217a5a7851dfbefcc_prof);
 
     }
 
-    // line 350
+    // line 484
     public function block_post_javascripts($context, array $blocks = array())
     {
-        $__internal_b1d028b188834df06d299d37309e1df4f1de7cefd531ce70c4b72ec2640cc74f = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_b1d028b188834df06d299d37309e1df4f1de7cefd531ce70c4b72ec2640cc74f->enter($__internal_b1d028b188834df06d299d37309e1df4f1de7cefd531ce70c4b72ec2640cc74f_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "post_javascripts"));
+        $__internal_161b9330715f891e3c8e44951a91318c15b7d3ddd2634c6e60c6508fac13316d = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_161b9330715f891e3c8e44951a91318c15b7d3ddd2634c6e60c6508fac13316d->enter($__internal_161b9330715f891e3c8e44951a91318c15b7d3ddd2634c6e60c6508fac13316d_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "post_javascripts"));
 
-        $__internal_173c9b7a485cf3e45535b2c9c107b51f0f8e6de0fb7d3e90dd8b0004e7089b83 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_173c9b7a485cf3e45535b2c9c107b51f0f8e6de0fb7d3e90dd8b0004e7089b83->enter($__internal_173c9b7a485cf3e45535b2c9c107b51f0f8e6de0fb7d3e90dd8b0004e7089b83_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "post_javascripts"));
+        $__internal_0ad47a7b85700df7ee3414e4da21a1a9a73eee6fd278993fd08c3d195ac2ff8c = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_0ad47a7b85700df7ee3414e4da21a1a9a73eee6fd278993fd08c3d195ac2ff8c->enter($__internal_0ad47a7b85700df7ee3414e4da21a1a9a73eee6fd278993fd08c3d195ac2ff8c_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "post_javascripts"));
 
-        // line 351
+        // line 485
         echo "    <!-- jQuery -->
     <script src=\"vendor/jquery/jquery.min.js\"></script>
 
@@ -528,16 +622,39 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
 
     <!-- Theme JavaScript -->
     <script src=\"";
-        // line 363
+        // line 497
         echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\AssetExtension')->getAssetUrl("js/creative.min.js"), "html", null, true);
         echo "\"></script>
 
+
+    <script type=\"text/javascript\">
+        var BlueStoneApp = {
+
+            gradeEpworth: function () {
+                \$('.epworth-alert').addClass('hide');
+                var scores = \$('.epworth :selected');
+                var total = 0;
+                \$.each(scores, function (index, score) {
+                    total += parseInt(\$(score).val());
+                });
+
+                if (total < 7) {
+                    \$('#epworth-success').removeClass('hide');
+                } else if (total < 9) {
+                    \$('#epworth-warning').removeClass('hide');
+                } else {
+                    \$('#epworth-danger').removeClass('hide');
+                }
+                console.log(total);
+            }
+        };
+    </script>
 ";
         
-        $__internal_173c9b7a485cf3e45535b2c9c107b51f0f8e6de0fb7d3e90dd8b0004e7089b83->leave($__internal_173c9b7a485cf3e45535b2c9c107b51f0f8e6de0fb7d3e90dd8b0004e7089b83_prof);
+        $__internal_0ad47a7b85700df7ee3414e4da21a1a9a73eee6fd278993fd08c3d195ac2ff8c->leave($__internal_0ad47a7b85700df7ee3414e4da21a1a9a73eee6fd278993fd08c3d195ac2ff8c_prof);
 
         
-        $__internal_b1d028b188834df06d299d37309e1df4f1de7cefd531ce70c4b72ec2640cc74f->leave($__internal_b1d028b188834df06d299d37309e1df4f1de7cefd531ce70c4b72ec2640cc74f_prof);
+        $__internal_161b9330715f891e3c8e44951a91318c15b7d3ddd2634c6e60c6508fac13316d->leave($__internal_161b9330715f891e3c8e44951a91318c15b7d3ddd2634c6e60c6508fac13316d_prof);
 
     }
 
@@ -553,7 +670,7 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
 
     public function getDebugInfo()
     {
-        return array (  532 => 363,  518 => 351,  509 => 350,  497 => 343,  495 => 342,  493 => 341,  491 => 340,  489 => 339,  487 => 338,  485 => 337,  482 => 335,  480 => 334,  478 => 333,  476 => 332,  474 => 331,  472 => 330,  470 => 329,  468 => 328,  466 => 327,  464 => 326,  462 => 325,  460 => 324,  457 => 322,  455 => 321,  453 => 320,  451 => 319,  449 => 318,  447 => 317,  445 => 316,  443 => 315,  441 => 314,  439 => 313,  437 => 312,  435 => 311,  433 => 310,  431 => 309,  429 => 308,  427 => 307,  425 => 306,  423 => 305,  421 => 304,  419 => 303,  417 => 302,  415 => 301,  413 => 300,  315 => 203,  302 => 191,  290 => 180,  197 => 88,  191 => 83,  175 => 69,  143 => 39,  134 => 38,  115 => 27,  106 => 26,  94 => 22,  90 => 21,  71 => 6,  62 => 5,  44 => 3,  11 => 1,);
+        return array (  626 => 497,  612 => 485,  603 => 484,  485 => 373,  469 => 358,  455 => 345,  204 => 95,  197 => 89,  181 => 75,  145 => 41,  136 => 40,  117 => 29,  108 => 28,  96 => 24,  92 => 23,  71 => 6,  62 => 5,  44 => 3,  11 => 1,);
     }
 
     /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
@@ -570,15 +687,17 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
 
 {% block title %}NTSS{% endblock %}
 
-{% block stylesheets%}
+{% block stylesheets %}
     {{ parent() }}
     <!-- Bootstrap Core CSS -->
     <link href=\"vendor/bootstrap/css/bootstrap.min.css\" rel=\"stylesheet\">
 
     <!-- Custom Fonts -->
     <link href=\"vendor/font-awesome/css/font-awesome.min.css\" rel=\"stylesheet\" type=\"text/css\">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800'
+          rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic'
+          rel='stylesheet' type='text/css'>
 
     <!-- Plugin CSS -->
     <link href=\"vendor/magnific-popup/magnific-popup.css\" rel=\"stylesheet\">
@@ -586,8 +705,8 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
     <!-- Theme CSS -->
     <link href=\"css/creative.min.css\" rel=\"stylesheet\">
 
-    <link rel=\"stylesheet\" href=\"{{ asset('css/creative.css') }}\" />
-    <link rel=\"stylesheet\" href=\"{{ asset('css/custom.css') }}\" />
+    <link rel=\"stylesheet\" href=\"{{ asset('css/creative.css') }}\"/>
+    <link rel=\"stylesheet\" href=\"{{ asset('css/custom.css') }}\"/>
 {% endblock %}
 
 
@@ -608,11 +727,14 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
         <div class=\"container-fluid\">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class=\"navbar-header\">
-                <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">
+                <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\"
+                        data-target=\"#bs-example-navbar-collapse-1\">
                     <span class=\"sr-only\">Toggle navigation</span> Menu <i class=\"fa fa-bars\"></i>
                 </button>
-                <a class=\"navbar-brand page-scroll hidden-md hidden-lg visible-xs-* visible-sm-*\" href=\"#page-top\">NTSS</a>
-                <a class=\"navbar-brand page-scroll hidden-xs hidden-sm visible-md-* visible-lg-*\" href=\"#page-top\">North Texas Sleep Solutions</a>
+                <a class=\"navbar-brand page-scroll hidden-md hidden-lg visible-xs-* visible-sm-*\"
+                   href=\"#page-top\">NTSS</a>
+                <a class=\"navbar-brand page-scroll hidden-xs hidden-sm visible-md-* visible-lg-*\" href=\"#page-top\">North
+                    Texas Sleep Solutions</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -624,6 +746,7 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                     <li>
                         <a class=\"page-scroll\" href=\"#selfcheck\">Check yourself</a>
                     </li>
+                    >
                     <li>
                         <a class=\"page-scroll\" href=\"#services\">Services</a>
                     </li>
@@ -650,12 +773,14 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                 {#<hr>#}
                 <h2>Tired of the Snoring?</h2>
                 <h5>Solutions for a better Quality of Life</h5>
-                <h2>Call us today<br><a class=\"phone phone-white\" href=\"tel:817-431-6764\"><i class=\"fa fa-phone sr-icons\"></i> 817-431-6764</a></h2>
+                <h2>Call us today<br><a class=\"phone phone-white\" href=\"tel:817-431-6764\"><i
+                                class=\"fa fa-phone sr-icons\"></i> 817-431-6764</a></h2>
 
                 {#<iframe src=\"https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fbluestonedentaltx%2F&width=63&layout=button&action=like&size=large&show_faces=true&share=false&height=65&appId\" width=\"63\" height=\"65\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"></iframe>#}
 
             </div>
-            <a style=\"margin-top:40px;\" href=\"#sleep\" class=\"btn btn-primary btn-xl page-scroll\">Find Out More about Sleep Apnea</a>
+            <a style=\"margin-top:40px;\" href=\"#sleep\" class=\"btn btn-primary btn-xl page-scroll\">Find Out More about
+                Sleep Apnea</a>
         </div>
     </header>
 
@@ -670,8 +795,8 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                     <div class=\"text-left\">
 
                         <p>At least 40 million Americans suffer from chronic, long term sleep disorders each year.
-                           The majority of these disorders can result in sleep deprivation which interferes with work,
-                           driving, and school activites.
+                            The majority of these disorders can result in sleep deprivation which interferes with work,
+                            driving, and school activites.
                         </p>
 
                         <h3 class=\"section-heading\">Signs of Sleep Apnea include</h3>
@@ -679,19 +804,19 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                         <ul class=\"text-left\">
                             <li>Loud snoring that may be associated with breathing pauses or gasping for breath</li>
                             <li>Excessive sleepiness when awake or unintended episodes of falling asleep</li>
-                            <li>Continuing to feel tired or fatiuged no matter how long you sleep</li>
+                            <li>Continuing to feel tired or fatigued no matter how long you sleep</li>
                         </ul>
                         <p>Untreated sleep disorders are directly linked to many chronic diseases, including obesity,
-                           hypertension, diabetes, impotence, arrhythmia, and stroke.
+                            hypertension, diabetes, impotence, arrhythmia, and stroke.
                         </p>
 
                     </div>
-                    <a href=\"#selfcheck\" class=\"page-scroll btn btn-default btn-xl sr-button\" style=\"margin-top:40px;\">Take self check</a>
+                    <a href=\"#selfcheck\" class=\"page-scroll btn btn-default btn-xl sr-button\" style=\"margin-top:40px;\">Take
+                        self check</a>
                 </div>
             </div>
         </div>
     </section>
-
 
     <section id=\"selfcheck\">
         <div class=\"container\">
@@ -704,7 +829,8 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                         <hr class=\"light\">
 
 
-                        <h3 class=\"section-heading\">Even if you don't THINK you have a problem, take this quick self check</h3>
+                        <h3 class=\"section-heading\">Even if you don't THINK you have a problem, take this quick self
+                            check</h3>
 
                         <ul class=\"text-left\">
                             <li>Do you SNORE?</li>
@@ -715,11 +841,167 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                             <li>Do you have DIABETES</li>
                         </ul>
 
-                        <p>If you answered YES to more than TWO of the questions give us a call to inquire about home sleep testing.
+                        <p>If you answered YES to more than TWO of the questions give us a call to inquire about home
+                            sleep testing.
                         </p>
+
+                        <br><br>
+
+                        <div>
+                            <table class=\"table\">
+                                <caption>
+                                    Epworth Sleepiness Scale
+                                    <br><br>
+                                    How likely are you to doze off or fall asleep in the following situations,
+                                    in contrast to feeling just tired? This refers to your usual way of life in recent
+                                    times. Even if you have not done some of these things recently try to work out how
+                                    they would have affected you. Use the following scale to choose the most appropriate
+                                    number for each situation:
+                                </caption>
+                                <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>Situation</th>
+                                    <th>Chance of dozing</th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                <tr>
+                                    <th scope=\"row\">1</th>
+                                    <td>Sitting and reading</td>
+                                    <td>
+                                        <div class=\"form-group\">
+                                            <select class=\"form-control epworth\">
+                                                <option value=\"0\">No chance of dozing</option>
+                                                <option value=\"1\">Slight chance of dozing</option>
+                                                <option value=\"2\">Moderate chance of dozing</option>
+                                                <option value=\"3\">High chance of dozing</option>
+                                            </select>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th scope=\"row\">2</th>
+                                    <td>Watching TV</td>
+                                    <td>
+                                        <div class=\"form-group\">
+                                            <select class=\"form-control epworth\">
+                                                <option value=\"0\">No chance of dozing</option>
+                                                <option value=\"1\">Slight chance of dozing</option>
+                                                <option value=\"2\">Moderate chance of dozing</option>
+                                                <option value=\"3\">High chance of dozing</option>
+                                            </select>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th scope=\"row\">3</th>
+                                    <td>Sitting inactive in a public place (e.g a theater or a meeting)</td>
+                                    <td>
+                                        <div class=\"form-group\">
+                                            <select class=\"form-control epworth\">
+                                                <option value=\"0\">No chance of dozing</option>
+                                                <option value=\"1\">Slight chance of dozing</option>
+                                                <option value=\"2\">Moderate chance of dozing</option>
+                                                <option value=\"3\">High chance of dozing</option>
+                                            </select>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th scope=\"row\">4</th>
+                                    <td>As a passenger in a car for an hour without a break</td>
+                                    <td>
+                                        <div class=\"form-group\">
+                                            <select class=\"form-control epworth\">
+                                                <option value=\"0\">No chance of dozing</option>
+                                                <option value=\"1\">Slight chance of dozing</option>
+                                                <option value=\"2\">Moderate chance of dozing</option>
+                                                <option value=\"3\">High chance of dozing</option>
+                                            </select>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th scope=\"row\">5</th>
+                                    <td>Lying down to rest in the afternoon when circumstances permit</td>
+                                    <td>
+                                        <div class=\"form-group\">
+                                            <select class=\"form-control epworth\">
+                                                <option value=\"0\">No chance of dozing</option>
+                                                <option value=\"1\">Slight chance of dozing</option>
+                                                <option value=\"2\">Moderate chance of dozing</option>
+                                                <option value=\"3\">High chance of dozing</option>
+                                            </select>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th scope=\"row\">6</th>
+                                    <td>Sitting and talking to someone</td>
+                                    <td>
+                                        <div class=\"form-group\">
+                                            <select class=\"form-control epworth\">
+                                                <option value=\"0\">No chance of dozing</option>
+                                                <option value=\"1\">Slight chance of dozing</option>
+                                                <option value=\"2\">Moderate chance of dozing</option>
+                                                <option value=\"3\">High chance of dozing</option>
+                                            </select>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th scope=\"row\">7</th>
+                                    <td>Sitting quietly after a lunch without alcohol</td>
+                                    <td>
+                                        <div class=\"form-group\">
+                                            <select class=\"form-control epworth\">
+                                                <option value=\"0\">No chance of dozing</option>
+                                                <option value=\"1\">Slight chance of dozing</option>
+                                                <option value=\"2\">Moderate chance of dozing</option>
+                                                <option value=\"3\">High chance of dozing</option>
+                                            </select>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th scope=\"row\">8</th>
+                                    <td>In a car, while stopped for a few minutes in traffic</td>
+                                    <td>
+                                        <div class=\"form-group\">
+                                            <select class=\"form-control epworth\">
+                                                <option value=\"0\">No chance of dozing</option>
+                                                <option value=\"1\">Slight chance of dozing</option>
+                                                <option value=\"2\">Moderate chance of dozing</option>
+                                                <option value=\"3\">High chance of dozing</option>
+                                            </select>
+                                        </div>
+                                    </td>
+                                </tr>
+                                </tbody>
+                            </table>
                         </div>
-                    <h2>Call us today<br><a class=\"phone phone-black\" href=\"tel:817-431-6764\"><i class=\"fa fa-phone sr-icons\"></i> 817-431-6764</a></h2>
-                    <a href=\"#services\" class=\"page-scroll btn btn-primary btn-xl sr-button\" style=\"margin-top:40px;\">Check out our Services</a>
+                    </div>
+                    <button onclick=\"BlueStoneApp.gradeEpworth()\" type=\"button\" class=\"btn btn-warning epworth-check\">
+                        Check your
+                        sleepiness score
+                    </button>
+                    <div id=\"epworth-success\" class=\"alert alert-success epworth-alert hide\" role=\"alert\">
+                        Congratulations, you are getting enough sleep!
+                    </div>
+                    <div id=\"epworth-warning\" class=\"alert alert-warning epworth-alert hide\" role=\"alert\">Your score is
+                        average
+                    </div>
+                    <div id=\"epworth-danger\" class=\"alert alert-danger  epworth-alert hide\" role=\"alert\">Seek the advice
+                        of a sleep specialist without
+                        delay
+                    </div>
+                    <br>
+                    <br>
+                    <h2>Call us today<br><a class=\"phone phone-black\" href=\"tel:817-431-6764\"><i
+                                    class=\"fa fa-phone sr-icons\"></i> 817-431-6764</a></h2>
+                    <a href=\"#services\" class=\"page-scroll btn btn-primary btn-xl sr-button\" style=\"margin-top:40px;\">Check
+                        out our Services</a>
                 </div>
             </div>
         </div>
@@ -732,8 +1014,8 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                     <h2 class=\"section-heading\">Our Services</h2>
                     <hr class=\"light\">
                     <p>We have no bias towards a specific treatment.</p>
-                    <p>We guide you to the approriate treatment
-                       recommended by the <br> American Academy of Sleep Medicine and fits into your life style.
+                    <p>We guide you to the appropriate treatment
+                        recommended by the <br> American Academy of Sleep Medicine and fits into your life style.
                     </p>
                     <p>Our office works with the majority of medical insurances, including <strong>Medicare</strong>.
                     </p>
@@ -747,10 +1029,12 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                         {#<i class=\"fa fa-4x fa-diamond tesxt-primary sr-icons\"></i>#}
                         <h3>CPAP</h3>
                         <div class=\"text-left\">
-                        <p>Continuous positive airway pressure therapy (CPAP ) uses a machine to help a person who has
-                            obstructive sleep apnea (OSA) breathe more easily during sleep. A CPAP machine increases
-                            air pressure in your throat so that your airway doesn't collapse when you breathe in.</p>
-                            </div>
+                            <p>Continuous positive airway pressure therapy (CPAP ) uses a machine to help a person who
+                                has
+                                obstructive sleep apnea (OSA) breathe more easily during sleep. A CPAP machine increases
+                                air pressure in your throat so that your airway doesn't collapse when you breathe
+                                in.</p>
+                        </div>
                     </div>
                 </div>
                 <div class=\"col-lg-4 col-md-6 text-center\">
@@ -758,11 +1042,14 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                         {#<i class=\"fa fa-4x fa-paper-plane tsext-primary sr-icons\"></i>#}
                         <h3>Surgery</h3>
                         <div class=\"text-left\">
-                        <p>It involves removing and repositioning excess tissue in the throat to make the airway wider.
-                            The surgeon can trim down your soft palate and uvula, remove your tonsils, and reposition
-                            some of the muscles of the soft palate. UPPP and other soft palate procedures are the most
-                            common type of surgery for sleep apne</p>
-                            </div>
+                            <p>It involves removing and repositioning excess tissue in the throat to make the airway
+                                wider.
+                                The surgeon can trim down your soft palate and uvula, remove your tonsils, and
+                                reposition
+                                some of the muscles of the soft palate. UPPP and other soft palate procedures are the
+                                most
+                                common type of surgery for sleep apne</p>
+                        </div>
                     </div>
                 </div>
                 <div class=\"col-lg-4 col-md-6 text-center\">
@@ -770,17 +1057,19 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
                         {#<i class=\"fa fa-4x fa-newspaper-o tsext-primary sr-icons\"></i>#}
                         <h3>Oral Appliance Therapy</h3>
                         <div class=\"text-left\">
-                        <p >Also called Jaw Advancing Device (JAD) or Mandibular Advancement Device (MAD), these
-                            sleep apnea mouth pieces are custom made by dentists using a plastic-like mold to form
-                            to the specific shape of the patients teeth and mouth. Not only do they work against sleep
-                            apnea, they are also effective to stop snoring.</p>
-                            </div>
+                            <p>Also called Jaw Advancing Device (JAD) or Mandibular Advancement Device (MAD), these
+                                sleep apnea mouth pieces are custom made by dentists using a plastic-like mold to form
+                                to the specific shape of the patients teeth and mouth. Not only do they work against
+                                sleep
+                                apnea, they are also effective to stop snoring.</p>
+                        </div>
 
                     </div>
                 </div>
 
                 <div class=\"col-lg-8 col-lg-offset-2 text-center\">
-                    <a href=\"#contact\" class=\"page-scroll btn btn-default btn-xl sr-button\" style=\"margin-top:40px;\">Contact Us</a>
+                    <a href=\"#contact\" class=\"page-scroll btn btn-default btn-xl sr-button\" style=\"margin-top:40px;\">Contact
+                        Us</a>
                 </div>
             </div>
 
@@ -802,25 +1091,29 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
 
                     <div class=\"col-lg-4 csol-lg-offset-1 text-center\">
                         <i class=\"fa fa-3x  fa-phone sr-icons\"></i>
-                        <h4 style=\"margin-top:6px;\"><a style=\"color:#333;\" class=\"phone\" href=\"tel:817-431-6764\"> 817-431-6764</a></h4>
+                        <h4 style=\"margin-top:6px;\"><a style=\"color:#333;\" class=\"phone\" href=\"tel:817-431-6764\">
+                                817-431-6764</a></h4>
                     </div>
                     <div class=\"col-lg-4 text-center\">
                         <i class=\"fa fa-3x fa-envelope-o sr-icons\"></i>
-                        <h4 style=\"margin-top:6px;\"><a style=\"color:#333;\" class=\"phone\" href=\"mailto:ntxsleepsolutions@gmail.com\">ntxsleepsolutions@gmail.com</a></h4>
+                        <h4 style=\"margin-top:6px;\"><a style=\"color:#333;\" class=\"phone\"
+                                                       href=\"mailto:ntxsleepsolutions@gmail.com\">ntxsleepsolutions@gmail.com</a>
+                        </h4>
                     </div>
                     <div class=\"col-lg-4 text-center\">
-                        <a  class=\"phone\" href=\"https://www.facebook.com/bluestonedentaltx/\">
+                        <a class=\"phone\" href=\"https://www.facebook.com/bluestonedentaltx/\">
                             <i class=\"fa fa-3x fa-facebook sr-icons\" style=\"color:#3B5998;\"></i>
                             <h4 style=\"margin-top:6px; color:#333;\">Connect with Us</h4>
                         </a>
                     </div>
 
                     <div class=\"col-lg-12 well\" style=\"height: 300px; background-color: rgba(22, 102, 161, 0.7);\">
-                    <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3348.6139696127607!2d-97.21530488424372!3d32.934795980924655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864dd6e645f479d5%3A0x3ac8250fcb25fdb8!2s1675+Keller+Pkwy+%23100%2C+Keller%2C+TX+76248!5e0!3m2!1sen!2sus!4v1483138439774\"
-                            width=\"100%\" height=\"100%\" frameborder=\"0\" style=\"border:0\"></iframe>
+                        <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3348.6139696127607!2d-97.21530488424372!3d32.934795980924655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864dd6e645f479d5%3A0x3ac8250fcb25fdb8!2s1675+Keller+Pkwy+%23100%2C+Keller%2C+TX+76248!5e0!3m2!1sen!2sus!4v1483138439774\"
+                                width=\"100%\" height=\"100%\" frameborder=\"0\" style=\"border:0\"></iframe>
                     </div>
 
-                    <a style=\"margin-top:40px;\" href=\"#about\" class=\"page-scroll btn btn-primary btn-xl sr-button\">About Us</a>
+                    <a style=\"margin-top:40px;\" href=\"#about\" class=\"page-scroll btn btn-primary btn-xl sr-button\">About
+                        Us</a>
                 </div>
             </div>
         </div>
@@ -838,81 +1131,39 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
 
                     <hr class=\"light\">
                     <div class=\"text-left\">
-                    <p>After earning her Doctorate in Dental Surgery at Baylor College of Dentistry in Dallas, Dr. Lauck
-                       has completed over 2,500 hours of continued education and since 2001 has focused her studies on
-                        TMJ and Sleep Apnea treatments.
-                    </p>
-                    <p>She holds 2 diplomate degrees in Sleep Apnea Treatment, in addition to being a Medicare provider
-                        for Sleep Apnea.  She has experience in different appliance designs that fit every individual case.
-                    </p>
-                    <p>For your treatment, she uses only FDA approved appliances that are made in top labs in the country.
-                        Her practice, North Texas Sleep Solutions, is dedicated to treating patients with Obstructive
-                        Sleep Apnea and snoring.
-                    </p>
-                        </div>
+                        <p>After earning her Doctorate in Dental Surgery at Baylor College of Dentistry in Dallas, Dr.
+                            Lauck
+                            has completed over 2,500 hours of continued education and since 2001 has focused her studies
+                            on
+                            TMJ and Sleep Apnea treatments.
+                        </p>
+                        <p>She holds 2 diplomate degrees in Sleep Apnea Treatment, in addition to being a Medicare
+                            provider
+                            for Sleep Apnea. She has experience in different appliance designs that fit every individual
+                            case.
+                        </p>
+                        <p>For your treatment, she uses only FDA approved appliances that are made in top labs in the
+                            country.
+                            Her practice, North Texas Sleep Solutions, is dedicated to treating patients with
+                            Obstructive
+                            Sleep Apnea and snoring.
+                        </p>
+                    </div>
                 </div>
                 <div class=\"col-lg-5 col-lg-offset-1 text-center\">
                     <i class=\"fa fa-3x  fa-phone sr-icons\"></i>
-                    <h4 style=\"margin-top:6px;\"><a class=\"phone phone-white\" href=\"tel:817-431-6764\"> 817-431-6764</a></h4>
+                    <h4 style=\"margin-top:6px;\"><a class=\"phone phone-white\" href=\"tel:817-431-6764\"> 817-431-6764</a>
+                    </h4>
                 </div>
                 <div class=\"col-lg-5 text-center\">
                     <i class=\"fa fa-3x fa-envelope-o sr-icons\"></i>
-                    <h4 style=\"margin-top:6px;\"><a class=\"phone phone-white\" href=\"mailto:ntxsleepsolutions@gmail.com\">ntxsleepsolutions@gmail.com</a></h4>
+                    <h4 style=\"margin-top:6px;\"><a class=\"phone phone-white\" href=\"mailto:ntxsleepsolutions@gmail.com\">ntxsleepsolutions@gmail.com</a>
+                    </h4>
                 </div>
             </div>
         </div>
     </section>
-
-
-    {#<!-- Help Modal -->#}
-    {#<div class=\"modal fade\" id=\"myModal\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"myModalLabel\">#}
-        {#<div class=\"modal-dialog\" role=\"document\">#}
-            {#<div class=\"modal-content\">#}
-                {#<div class=\"modal-header\" style=\"border-bottom: 1px solid #789FCA;\">#}
-                    {#<button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></button>#}
-                    {#<h4 class=\"modal-title\" id=\"myModalLabel\">What is Sleep Apnea?</h4>#}
-                {#</div>#}
-                {#<div class=\"modal-body\">#}
-                    {#Sleep apnea (AP-ne-ah) is a common disorder in which you have one or more pauses in breathing or shallow breaths while you sleep.#}
-                    {#<br><br>#}
-                    {#Breathing pauses can last from a few seconds to minutes. They may occur 30 times or more an hour. Typically, normal breathing then starts again, sometimes with a loud snort or choking sound.#}
-                    {#<br><br>#}
-                    {#Sleep apnea usually is a chronic (ongoing) condition that disrupts your sleep. When your breathing pauses or becomes shallow, you’ll often move out of deep sleep and into light sleep.#}
-                    {#<br><br>#}
-                    {#As a result, the quality of your sleep is poor, which makes you tired during the day. Sleep apnea is a leading cause of excessive daytime sleepiness.#}
-                {#</div>#}
-                {#<div class=\"modal-footer\">#}
-                    {#<button type=\"button\" class=\"btn btn-primary\" data-dismiss=\"modal\">Close</button>#}
-                {#</div>#}
-            {#</div>#}
-        {#</div>#}
-    {#</div>#}
-
-    {#<!-- New Patients Modal -->#}
-    {#<div class=\"modal fade\" id=\"modalPatients\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"myModalLabel\">#}
-        {#<div class=\"modal-dialog\" role=\"document\">#}
-            {#<div class=\"modal-content\">#}
-                {#<div class=\"modal-header\" style=\"border-bottom: 1px solid #789FCA;\">#}
-                    {#<button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></button>#}
-                    {#<h4 class=\"modal-title\" id=\"myModalLabel\">New Patients</h4>#}
-                {#</div>#}
-                {#<div class=\"modal-body\">#}
-                    {#Currently accepting new patients#}
-                    {#<br><br>#}
-                    {#Our office works with the majority of medical insurances, including Medicare.#}
-
-                {#</div>#}
-                {#<div class=\"modal-footer\">#}
-                    {#<button type=\"button\" class=\"btn btn-primary\" data-dismiss=\"modal\">Close</button>#}
-                {#</div>#}
-            {#</div>#}
-        {#</div>#}
-    {#</div>#}
-
-
 {% endblock %}
-
-
 
 
 {% block post_javascripts %}
@@ -930,6 +1181,29 @@ class __TwigTemplate_ea661da58b18b4e491173ad28d181a2a1b0a33526cc92af1df0577adb69
     <!-- Theme JavaScript -->
     <script src=\"{{ asset('js/creative.min.js') }}\"></script>
 
+
+    <script type=\"text/javascript\">
+        var BlueStoneApp = {
+
+            gradeEpworth: function () {
+                \$('.epworth-alert').addClass('hide');
+                var scores = \$('.epworth :selected');
+                var total = 0;
+                \$.each(scores, function (index, score) {
+                    total += parseInt(\$(score).val());
+                });
+
+                if (total < 7) {
+                    \$('#epworth-success').removeClass('hide');
+                } else if (total < 9) {
+                    \$('#epworth-warning').removeClass('hide');
+                } else {
+                    \$('#epworth-danger').removeClass('hide');
+                }
+                console.log(total);
+            }
+        };
+    </script>
 {% endblock %}", "default/index.html.twig", "/home/david/Code/bluestone/app/Resources/views/default/index.html.twig");
     }
 }
